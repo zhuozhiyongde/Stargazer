@@ -1,0 +1,22 @@
+name: Update awesome list
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - name: Awesome generator
+        uses: simonecorsi/mawesome@v2
+        with:
+          api-token: ${{ secrets.ACCESS_TOKEN }}
+          github-name: "github-actions[bot]"
+          github-email: "github-actions[bot]@users.noreply.github.com"
+          template-path: "template/README.ejs"
