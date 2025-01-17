@@ -10,14 +10,14 @@
 
 ## Table of Contents
 
-*   [CSS](#css)
-*   [TypeScript](#typescript)
-*   [Vue](#vue)
 *   [miscellaneous](#miscellaneous)
+*   [TypeScript](#typescript)
+*   [C](#c)
+*   [CSS](#css)
+*   [Vue](#vue)
 *   [Astro](#astro)
 *   [Svelte](#svelte)
 *   [Python](#python)
-*   [C](#c)
 *   [JavaScript](#javascript)
 *   [Typst](#typst)
 *   [Jupyter Notebook](#jupyter-notebook)
@@ -56,61 +56,150 @@
 *   [Dockerfile](#dockerfile)
 *   [SCSS](#scss)
 *   [Lua](#lua)
+*   [MATLAB](#matlab)
+*   [Terra](#terra)
+*   [CoffeeScript](#coffeescript)
 *   [Thanks](#thanks)
 
-## CSS
+## miscellaneous
 
-*   [SpaceTheme/Steam](https://github.com/SpaceTheme/Steam) - SpaceTheme for Steam
+*   [Richasy/ReaderCopilot.Public](https://github.com/Richasy/ReaderCopilot.Public) - Used to collect questions from Reader Copilot, display bug processing results, display documents, etc.
 
-*   [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit) - a pure css implementation of some sunlight streaming in through the window
+*   [tongyx361/Awesome-LLM-Research](https://github.com/tongyx361/Awesome-LLM-Research) - Curation of resources for LLM research, screened by @tongyx361 to ensure high quality and accompanied with elaborately-written concise descriptions to help readers get the gist as quickly as possible.
 
-*   [RoseTheFlower/MetroSteam](https://github.com/RoseTheFlower/MetroSteam) - Metro skin for Steam. Reborn.
+*   [HazyResearch/aisys-building-blocks](https://github.com/HazyResearch/aisys-building-blocks) - Building blocks for foundation models.
 
-*   [Richard9394/MingCute](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
+*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design.
 
-*   [elrumo/macOS\_Big\_Sur\_icons\_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
+*   [Innei/review-2024](https://github.com/Innei/review-2024) - 你在期待什么？你在失望什么？
 
-*   [EvanNotFound/typora-theme-redefine](https://github.com/EvanNotFound/typora-theme-redefine) - Enhance your writing experience with the official Typora theme from Hexo Theme Redefine.
+*   [pku-minic/online-doc](https://github.com/pku-minic/online-doc) - PKU compiler course online documentation.
 
-*   [HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
+*   [HanXinzi-AI/awesome-computer-vision-resources](https://github.com/HanXinzi-AI/awesome-computer-vision-resources) - a collection of computer vision projects\&tools. 计算机视觉方向项目和工具集合。
 
-*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+*   [CS-icez/pku-cs-homework](https://github.com/CS-icez/pku-cs-homework) - PKU CS专业课作业。目前包括AI引论、代数结构与组合数学、信息论、数据库概论、数据结构与算法、数理逻辑、概率统计、算法设计与分析、编译原理、计算机网络、计算理论导论、随机过程引论、集合论与图论等。
 
-*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+*   [EmptyBlueBox/2021\_Fall\_PKU\_Standard\_CPP\_Programming\_lg\_Ataxx](https://github.com/EmptyBlueBox/2021_Fall_PKU_Standard_CPP_Programming_lg_Ataxx) -
 
-*   [TheoCUC/slidev-theme-prussianblue](https://github.com/TheoCUC/slidev-theme-prussianblue) - a nice slidev theme
+*   [boring-design/haye-distro](https://github.com/boring-design/haye-distro) -
 
-*   [sylviaxgj/typora-forest-theme](https://github.com/sylviaxgj/typora-forest-theme) - another typora theme
+*   [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY\_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
 
-*   [wandou-cc/blog-ui](https://github.com/wandou-cc/blog-ui) -
+*   [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
 
-*   [HanryYu/typora-blubook-theme](https://github.com/HanryYu/typora-blubook-theme) - Blubook, a flat typora theme.
+*   [jyeric/BBDown](https://github.com/jyeric/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
 
-*   [adrian-fuertes/typora-notion-theme](https://github.com/adrian-fuertes/typora-notion-theme) - A beautiful, Notion-inspired Typora theme
+*   [lllyasviel/LayerDiffuse](https://github.com/lllyasviel/LayerDiffuse) - Transparent Image Layer Diffusion using Latent Transparency
 
-*   [Tokinx/Wing](https://github.com/Tokinx/Wing) - Simple, smooth, data-driven, responsive WordPress theme
+*   [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 
-*   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
+*   [icebruce/FlowLauncher-Ayu](https://github.com/icebruce/FlowLauncher-Ayu) -
 
-*   [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
+*   [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
 
-*   [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
+*   [Jannchie/GPT-SoVITS](https://github.com/Jannchie/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
 
-*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+*   [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
 
-*   [lovefc/china\_school\_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
+*   [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
 
-*   [typora/theme.typora.io](https://github.com/typora/theme.typora.io) - Website for Typora themes
+*   [ZhenbangYou/University-Application--Computer-Science-Graduates-](https://github.com/ZhenbangYou/University-Application--Computer-Science-Graduates-) -
 
-*   [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) - This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
+*   [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) -
 
-*   [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
+*   [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
 
-*   [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
 
-*   [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
+*   [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
+
+*   [wsdjeg/Learn-Vim\_zh\_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) - 聪明地学习Vim
+
+*   [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
+
+*   [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
+
+*   [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
+
+*   [kattgu7/Anti-996-License](https://github.com/kattgu7/Anti-996-License) - Anti-996 License Version 1.0
+
+*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
+
+*   [xiaochunjimmy/Sogou-Input-Skin](https://github.com/xiaochunjimmy/Sogou-Input-Skin) - 搜狗拼音输入法的几款极简风格皮肤
+
+*   [xlthu/pangu-markdown](https://github.com/xlthu/pangu-markdown) - Pangu Markdown Plugin For VSCode
+
+*   [rosebe/FUCK-GFW](https://github.com/rosebe/FUCK-GFW) - 记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW
+
+*   [sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系
+
+*   [A-kirami/A-kirami](https://github.com/A-kirami/A-kirami) -
+
+*   [DarkoXie/DarkoXie.github.io](https://github.com/DarkoXie/DarkoXie.github.io) - Yantong XIE's homepage
+
+*   [pkuhollow/seed](https://github.com/pkuhollow/seed) - 燕园是一片神奇的土地，到处都是希望的种子。哪里有雨露，哪里就会生根发芽。
+
+*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
+
+*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
+
+*   [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
+
+*   [Arbeiter-PKU/HandlingYourJob](https://github.com/Arbeiter-PKU/HandlingYourJob) - How to handle campus recruitment. 校招感悟
+
+*   [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
+
+*   [imageslr/typora-theme-bear](https://github.com/imageslr/typora-theme-bear) - 一系列 Bear 风格的 typora 主题，共计 20 余款。A collection of typora themes, inspired by Bear.
+
+*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
+
+*   [rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding) - 编程之路
+
+*   [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) - 🦑 A GitHub profile auto-generated with metrics, starred topics, an isometric contribution calendar, suggested music tracks, website performances, most used languages, etc. !
+
+*   [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
+
+*   [Doublefire-Chen/chaoxing\_sign](https://github.com/Doublefire-Chen/chaoxing_sign) - 超星学习通自动签到 Python 脚本
+
+*   [shaokeyibb/open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth) - 深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。
+
+*   [cyz123456-666/bili-suit-v2](https://github.com/cyz123456-666/bili-suit-v2) -  bilibili装扮抢购脚本
+
+*   [micromata/awesome-css-learning](https://github.com/micromata/awesome-css-learning) - A tiny list limited to the best CSS Learning Resources
+
+*   [Jackpopc/DevWeekly](https://github.com/Jackpopc/DevWeekly) - 每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。
+
+*   [EmptyBlueBox/2021\_Fall\_Standard\_CPP\_Programming\_lg](https://github.com/EmptyBlueBox/2021_Fall_Standard_CPP_Programming_lg) -
+
+*   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
+
+*   [feiyangqingyun/qtkaifajingyan](https://github.com/feiyangqingyun/qtkaifajingyan) - 自己总结的这十多年做Qt开发以来的经验，以及Qt相关武林秘籍电子书，会一直持续更新增加，欢迎各位留言增加内容或者提出建议，谢谢！公众号：Qt实战/Qt入门和进阶/Qt教程
+
+*   [warpdotdev/Warp](https://github.com/warpdotdev/Warp) - Warp is a modern, Rust-based terminal with AI built in so you and your team can build great software, faster.
+
+*   [mqyqingfeng/Blog](https://github.com/mqyqingfeng/Blog) - 冴羽写博客的地方，预计写四个系列：JavaScript深入系列、JavaScript专题系列、ES6系列、React系列。
+
+*   [staticfile/static](https://github.com/staticfile/static) - 开放静态文件 - 为开源库提供稳定、快速的免费 CDN 服务
+
+*   [afatcoder/LeetcodeTop](https://github.com/afatcoder/LeetcodeTop) - 汇总各大互联网公司容易考察的高频leetcode题🔥
+
+*   [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
+
+*   [nusr/hacker-laws-zh](https://github.com/nusr/hacker-laws-zh) - 💻📖对开发人员有用的定律、理论、原则和模式。(Laws, Theories, Principles and Patterns that developers will find useful.)
+
+*   [QianMo/Game-Programmer-Study-Notes](https://github.com/QianMo/Game-Programmer-Study-Notes) - :anchor:  我的游戏程序员生涯的读书笔记合辑。你可以把它看作一个加强版的Blog。涉及图形学、实时渲染、编程实践、GPU编程、设计模式、软件工程等内容。Keep Reading , Keep Writing , Keep Coding.
+
+*   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
+
+*   [spring2go/cs\_study\_plan](https://github.com/spring2go/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
+
+*   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
+
+*   [ripperhe/Bob](https://github.com/ripperhe/Bob) - Bob 是一款 macOS 平台的翻译和 OCR 软件。
 
 ## TypeScript
+
+*   [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
 
 *   [guhrodrrigues/luxe](https://github.com/guhrodrrigues/luxe) - Copy & Paste components. Illuminate your apps. Fast and Easy.
 
@@ -396,6 +485,128 @@
 
 *   [slidevjs/slidev](https://github.com/slidevjs/slidev) - Presentation Slides for Developers
 
+*   [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
+
+*   [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
+
+*   [Bowen7/regex-vis](https://github.com/Bowen7/regex-vis) - 🎨 Regex visualizer & editor
+
+*   [hoppscotch/hoppscotch](https://github.com/hoppscotch/hoppscotch) - Open source API development ecosystem - https://hoppscotch.io (open-source alternative to Postman, Insomnia)
+
+*   [WindRunnerMax/EveryDay](https://github.com/WindRunnerMax/EveryDay) - 前端基础 个人博客 学习笔记
+
+*   [zdhxiong/mdui](https://github.com/zdhxiong/mdui) - Material Design 3(Material You) UI components using Web Components.
+
+*   [guyutongxue/MyCppTutorial](https://github.com/guyutongxue/MyCppTutorial) - 个人编写的、以教程形式整理的 C++ 知识。【停更中，仅修复问题】
+
+## C
+
+*   [rainmeter/rainmeter](https://github.com/rainmeter/rainmeter) - Desktop customization tool for Windows
+
+*   [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny) - an image compression framework.（一个高保真、高压缩比的图片压缩框架）
+
+*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+
+*   [vonzhou/CSAPP](https://github.com/vonzhou/CSAPP) - CSAPP,《深入理解计算机系统结构》2nd ，阅读与实践！
+
+*   [XieGuochao/csapp](https://github.com/XieGuochao/csapp) - The docker source and materials for CS:APP labs
+
+*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+
+*   [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
+
+*   [Halbmond/Introduction-to-Computer-Systems](https://github.com/Halbmond/Introduction-to-Computer-Systems) - Course : Introduction to Computer Systems
+
+*   [CS-icez/introduction-to-computer-systems](https://github.com/CS-icez/introduction-to-computer-systems) - F22 PKU course “Introduction to Computer System” (ICS) lab solutions. Top 1 in archlab and malloclab.
+
+*   [Veiasai/ics-2017-lab7](https://github.com/Veiasai/ics-2017-lab7) -
+
+*   [zhouyuyang2002/ICS-lab](https://github.com/zhouyuyang2002/ICS-lab) - 存放 2021 学期 PKU-ICS 所有 lab
+
+*   [Seterplus/CSAPP](https://github.com/Seterplus/CSAPP) - CSAPP Labs
+
+*   [UsanoCoCr/PKUICS](https://github.com/UsanoCoCr/PKUICS) - 北京大学2023-2024学年ICS计算机系统导论个人资料整理
+
+*   [EmptyBlueBox/Introduction\_to\_Computer\_System\_ICS-gxt-2022Fall-PKU](https://github.com/EmptyBlueBox/Introduction_to_Computer_System_ICS-gxt-2022Fall-PKU) -
+
+*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
+
+*   [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
+
+*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
+
+*   [a-darwish/cuteOS](https://github.com/a-darwish/cuteOS) - A 64-bit SMP-safe kernel for the PC architecture.
+
+*   [Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs) - Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记
+
+*   [HITSZ-OpenCS/HITSZ-OpenCS](https://github.com/HITSZ-OpenCS/HITSZ-OpenCS) - 哈尔滨工业大学（深圳）计算机专业课程攻略 | Guidance for courses in Department of Computer Science, Harbin Institute of Technology (Shenzhen)
+
+## CSS
+
+*   [SpaceTheme/Steam](https://github.com/SpaceTheme/Steam) - SpaceTheme for Steam
+
+*   [jackyzha0/sunlit](https://github.com/jackyzha0/sunlit) - a pure css implementation of some sunlight streaming in through the window
+
+*   [RoseTheFlower/MetroSteam](https://github.com/RoseTheFlower/MetroSteam) - Metro skin for Steam. Reborn.
+
+*   [Richard9394/MingCute](https://github.com/Richard9394/MingCute) - Carefully Designed Icon Library. MingCute is a set of simple and exquisite open-source icon library. Whether you're a designer or a developer, it's perfect for use in web and mobile.
+
+*   [elrumo/macOS\_Big\_Sur\_icons\_replacements](https://github.com/elrumo/macOS_Big_Sur_icons_replacements) - Replacement icons for popular apps in the style of macOS Big Sur
+
+*   [EvanNotFound/typora-theme-redefine](https://github.com/EvanNotFound/typora-theme-redefine) - Enhance your writing experience with the official Typora theme from Hexo Theme Redefine.
+
+*   [HappySimple/Typora-theme-Happysimple](https://github.com/HappySimple/Typora-theme-Happysimple) - 一款自制的Markdown主题！
+
+*   [necolas/normalize.css](https://github.com/necolas/normalize.css) - A modern alternative to CSS resets
+
+*   [jgthms/bulma](https://github.com/jgthms/bulma) - Modern CSS framework based on Flexbox
+
+*   [TheoCUC/slidev-theme-prussianblue](https://github.com/TheoCUC/slidev-theme-prussianblue) - a nice slidev theme
+
+*   [sylviaxgj/typora-forest-theme](https://github.com/sylviaxgj/typora-forest-theme) - another typora theme
+
+*   [wandou-cc/blog-ui](https://github.com/wandou-cc/blog-ui) -
+
+*   [HanryYu/typora-blubook-theme](https://github.com/HanryYu/typora-blubook-theme) - Blubook, a flat typora theme.
+
+*   [adrian-fuertes/typora-notion-theme](https://github.com/adrian-fuertes/typora-notion-theme) - A beautiful, Notion-inspired Typora theme
+
+*   [Tokinx/Wing](https://github.com/Tokinx/Wing) - Simple, smooth, data-driven, responsive WordPress theme
+
+*   [owl4ce/dotfiles](https://github.com/owl4ce/dotfiles) - :cherry\_blossom: Aesthetic OpenboxWM Environment
+
+*   [picocss/pico](https://github.com/picocss/pico) - Minimal CSS Framework for semantic HTML
+
+*   [Soanguy/typora-theme-autumnus](https://github.com/Soanguy/typora-theme-autumnus) - Typora theme for 中文
+
+*   [chokcoco/iCSS](https://github.com/chokcoco/iCSS) - 不止于 CSS
+
+*   [lovefc/china\_school\_badge](https://github.com/lovefc/china_school_badge) - 全国高校校徽字体图标库
+
+*   [typora/theme.typora.io](https://github.com/typora/theme.typora.io) - Website for Typora themes
+
+*   [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) - This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
+
+*   [liangjingkanji/DrakeTyporaTheme](https://github.com/liangjingkanji/DrakeTyporaTheme) - 十二种主题风格 - Material Google JetBrains Vue Juejin Purple Ayu Dark
+
+*   [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
+
+*   [missing-semester/missing-semester](https://github.com/missing-semester/missing-semester) - The Missing Semester of Your CS Education 📚
+
+*   [botuniverse/onebot](https://github.com/botuniverse/onebot) - OneBot：统一的聊天机器人应用接口标准
+
+*   [zhuozhiyongde/PKU-Art](https://github.com/zhuozhiyongde/PKU-Art) - 一个北大教学网的美化样式
+
+*   [wizardforcel/sicp-py-zh](https://github.com/wizardforcel/sicp-py-zh) - :book:【译】UCB CS61a SICP Python
+
+*   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
+
+*   [elitistsnob/typora-cobalt-theme](https://github.com/elitistsnob/typora-cobalt-theme) - A dark theme for Typora with enhanced UI
+
+*   [zhuozhiyongde/Baidu-Art](https://github.com/zhuozhiyongde/Baidu-Art) - Baidu Lite Stylish 样式表
+
+*   [hakadao/bilibili-simple-home](https://github.com/hakadao/bilibili-simple-home) - A search engine style for bilibili home page | b站仿搜索引擎样式首页风格
+
 ## Vue
 
 *   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
@@ -442,113 +653,7 @@
 
 *   [MagmaBlock/LavaAnimeLibWeb](https://github.com/MagmaBlock/LavaAnimeLibWeb) - 熔岩番剧库 LavaAnimeLib 的前端，当前版本 V2.5
 
-## miscellaneous
-
-*   [tongyx361/Awesome-LLM-Research](https://github.com/tongyx361/Awesome-LLM-Research) - Curation of resources for LLM research, screened by @tongyx361 to ensure high quality and accompanied with elaborately-written concise descriptions to help readers get the gist as quickly as possible.
-
-*   [HazyResearch/aisys-building-blocks](https://github.com/HazyResearch/aisys-building-blocks) - Building blocks for foundation models.
-
-*   [SamToki/Sam-Toki-Mouse-Cursors](https://github.com/SamToki/Sam-Toki-Mouse-Cursors) - 原创极简风格鼠标指针，适用于 Windows 系统。 ／ Original mouse cursors (pointers) for Windows, with minimalistic design.
-
-*   [Innei/review-2024](https://github.com/Innei/review-2024) - 你在期待什么？你在失望什么？
-
-*   [pku-minic/online-doc](https://github.com/pku-minic/online-doc) - PKU compiler course online documentation.
-
-*   [HanXinzi-AI/awesome-computer-vision-resources](https://github.com/HanXinzi-AI/awesome-computer-vision-resources) - a collection of computer vision projects\&tools. 计算机视觉方向项目和工具集合。
-
-*   [CS-icez/pku-cs-homework](https://github.com/CS-icez/pku-cs-homework) - PKU CS专业课作业。目前包括AI引论、代数结构与组合数学、信息论、数据库概论、数据结构与算法、数理逻辑、概率统计、算法设计与分析、编译原理、计算机网络、计算理论导论、随机过程引论、集合论与图论等。
-
-*   [EmptyBlueBox/2021\_Fall\_PKU\_Standard\_CPP\_Programming\_lg\_Ataxx](https://github.com/EmptyBlueBox/2021_Fall_PKU_Standard_CPP_Programming_lg_Ataxx) -
-
-*   [boring-design/haye-distro](https://github.com/boring-design/haye-distro) -
-
-*   [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY\_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
-
-*   [LLMBook-zh/LLMBook-zh.github.io](https://github.com/LLMBook-zh/LLMBook-zh.github.io) - 《大语言模型》作者：赵鑫，李军毅，周昆，唐天一，文继荣
-
-*   [jyeric/BBDown](https://github.com/jyeric/BBDown) - Bilibili Downloader. 一款命令行式哔哩哔哩下载器.
-
-*   [lllyasviel/LayerDiffuse](https://github.com/lllyasviel/LayerDiffuse) - Transparent Image Layer Diffusion using Latent Transparency
-
-*   [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
-
-*   [icebruce/FlowLauncher-Ayu](https://github.com/icebruce/FlowLauncher-Ayu) -
-
-*   [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
-
-*   [Jannchie/GPT-SoVITS](https://github.com/Jannchie/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
-
-*   [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
-
-*   [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
-
-*   [ZhenbangYou/University-Application--Computer-Science-Graduates-](https://github.com/ZhenbangYou/University-Application--Computer-Science-Graduates-) -
-
-*   [leaves615/KeyboardHolder](https://github.com/leaves615/KeyboardHolder) -
-
-*   [hzwer/shareOI](https://github.com/hzwer/shareOI) - 算法竞赛课件分享
-
-*   [sindresorhus/awesome](https://github.com/sindresorhus/awesome) - 😎 Awesome lists about all kinds of interesting topics
-
-*   [lxgw/kose-font](https://github.com/lxgw/kose-font) - A Chinese handwriting font derived from SetoFont. 一款衍生于「濑户字体」的中文手写字型。
-
-*   [wsdjeg/Learn-Vim\_zh\_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) - 聪明地学习Vim
-
-*   [hibayesian/awesome-automl-papers](https://github.com/hibayesian/awesome-automl-papers) - A curated list of automated machine learning papers, articles, tutorials, slides and projects
-
-*   [iggredible/Learn-Vim](https://github.com/iggredible/Learn-Vim) - Learning Vim and Vimscript doesn't have to be hard. This is the guide that you're looking for 📖
-
-*   [runningcheese/Awesome-AI](https://github.com/runningcheese/Awesome-AI) - Awesome AI，你的《人工智能指南》！
-
-*   [kattgu7/Anti-996-License](https://github.com/kattgu7/Anti-996-License) - Anti-996 License Version 1.0
-
-*   [immersive-translate/immersive-translate](https://github.com/immersive-translate/immersive-translate) - 沉浸式双语网页翻译扩展 , 支持输入框翻译， 鼠标悬停翻译， PDF, Epub, 字幕文件, TXT 文件翻译 - Immersive Dual Web Page Translation Extension
-
-*   [xiaochunjimmy/Sogou-Input-Skin](https://github.com/xiaochunjimmy/Sogou-Input-Skin) - 搜狗拼音输入法的几款极简风格皮肤
-
-*   [xlthu/pangu-markdown](https://github.com/xlthu/pangu-markdown) - Pangu Markdown Plugin For VSCode
-
-*   [rosebe/FUCK-GFW](https://github.com/rosebe/FUCK-GFW) - 记录各个包管理器使用代理的方法, 因为GFW已经浪费了已经数不清的时间, FUCK GFW
-
-*   [sisterAn/JavaScript-Algorithms](https://github.com/sisterAn/JavaScript-Algorithms) - 基础理论+JS框架应用+实践，从0到1构建整个前端算法体系
-
-*   [A-kirami/A-kirami](https://github.com/A-kirami/A-kirami) -
-
-*   [DarkoXie/DarkoXie.github.io](https://github.com/DarkoXie/DarkoXie.github.io) - Yantong XIE's homepage
-
-*   [pkuhollow/seed](https://github.com/pkuhollow/seed) - 燕园是一片神奇的土地，到处都是希望的种子。哪里有雨露，哪里就会生根发芽。
-
-*   [xiaolincoder/CS-Base](https://github.com/xiaolincoder/CS-Base) - 图解计算机网络、操作系统、计算机组成、数据库，共 1000 张图 + 50 万字，破除晦涩难懂的计算机基础知识，让天下没有难懂的八股文！🚀 在线阅读：https://xiaolincoding.com
-
-*   [leviding/one-note-a-day](https://github.com/leviding/one-note-a-day) - 编程每日一题：每天一道精选面试或编程题，180秒内语音答题模式凝练答案。次日推送标准参考答案至群内供大家复盘，做到事事有回音，题题有答案。
-
-*   [Loyalsoldier/clash-rules](https://github.com/Loyalsoldier/clash-rules) - 🦄️ 🎃 👻 Clash Premium 规则集(RULE-SET)，兼容 ClashX Pro、Clash for Windows 等基于 Clash Premium 内核的客户端。
-
-*   [forthespada/CampusShame](https://github.com/forthespada/CampusShame) - 互联网仍有记忆！那些曾经在校招过程中毁过口头offer、意向书、三方的公司！纵然人微言轻，也想尽绵薄之力！
-
-*   [Arbeiter-PKU/HandlingYourJob](https://github.com/Arbeiter-PKU/HandlingYourJob) - How to handle campus recruitment. 校招感悟
-
-*   [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
-
-*   [imageslr/typora-theme-bear](https://github.com/imageslr/typora-theme-bear) - 一系列 Bear 风格的 typora 主题，共计 20 余款。A collection of typora themes, inspired by Bear.
-
-*   [The-Run-Philosophy-Organization/run](https://github.com/The-Run-Philosophy-Organization/run) - 润学全球官方指定GITHUB，整理润学宗旨、纲领、理论和各类润之实例；解决为什么润，润去哪里，怎么润三大问题； 并成为新中国人的核心宗教，核心信念。
-
-*   [rd2coding/Road2Coding](https://github.com/rd2coding/Road2Coding) - 编程之路
-
-*   [lowlighter/lowlighter](https://github.com/lowlighter/lowlighter) - 🦑 A GitHub profile auto-generated with metrics, starred topics, an isometric contribution calendar, suggested music tracks, website performances, most used languages, etc. !
-
-*   [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
-
-*   [Doublefire-Chen/chaoxing\_sign](https://github.com/Doublefire-Chen/chaoxing_sign) - 超星学习通自动签到 Python 脚本
-
-*   [shaokeyibb/open-source-licenses-in-depth](https://github.com/shaokeyibb/open-source-licenses-in-depth) - 深入理解开源许可证（Open Source Licenses In Depth）试图用通俗的语言辅以专业化的表述，带领读者深入理解几个主流开源许可证之间的区别，并强调了 copyleft 协议与其他协议之间的兼容性。
-
-*   [cyz123456-666/bili-suit-v2](https://github.com/cyz123456-666/bili-suit-v2) -  bilibili装扮抢购脚本
-
-*   [micromata/awesome-css-learning](https://github.com/micromata/awesome-css-learning) - A tiny list limited to the best CSS Learning Resources
-
-*   [Jackpopc/DevWeekly](https://github.com/Jackpopc/DevWeekly) - 每周五发布，精选优质开发者内容，包括开源项目、工具资源、技术文章等方面。
+*   [cworld1/vue-learning](https://github.com/cworld1/vue-learning) - 关于 CWorld 在学习 Vue 时的一些代码记录
 
 ## Astro
 
@@ -760,43 +865,35 @@
 
 *   [sntaoo/PKUMailboxLogin](https://github.com/sntaoo/PKUMailboxLogin) - 非常非常非常简单的pku邮箱登录器，防止毕业生半年不登录邮箱使得邮箱失效
 
-## C
+*   [zyHan2077/EpeAutoReserve](https://github.com/zyHan2077/EpeAutoReserve) - 北京大学/北大/PKU 智慧场馆 场地预约 自动化 （2022/04/03加了拖动滑块验证码，此项目封存）
 
-*   [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny) - an image compression framework.（一个高保真、高压缩比的图片压缩框架）
+*   [AllanChain/hole-martyr](https://github.com/AllanChain/hole-martyr) - Find martyrs and their deeds in PKUHole | 寻找 P 大树洞烈士
 
-*   [RubyMetric/chsrc](https://github.com/RubyMetric/chsrc) - chsrc 全平台通用换源工具与框架. Change Source everywhere for every software
+*   [NorthIsUp/alfred-workflow-py3](https://github.com/NorthIsUp/alfred-workflow-py3) - Full-featured library for writing Alfred 3 & 4 workflows
 
-*   [vonzhou/CSAPP](https://github.com/vonzhou/CSAPP) - CSAPP,《深入理解计算机系统结构》2nd ，阅读与实践！
+*   [py-mine/mcstatus](https://github.com/py-mine/mcstatus) - A Python library for checking the status of Minecraft servers
 
-*   [XieGuochao/csapp](https://github.com/XieGuochao/csapp) - The docker source and materials for CS:APP labs
+*   [nonebot/nonebot2](https://github.com/nonebot/nonebot2) - 跨平台 Python 异步聊天机器人框架 / Asynchronous multi-platform chatbot framework written in Python
 
-*   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
+*   [mherrmann/helium](https://github.com/mherrmann/helium) - Lighter web automation with Python
 
-*   [Hansimov/csapp](https://github.com/Hansimov/csapp) - 个人整理的《深入理解计算机系统》中文电子版（原书第 3 版）与实验材料：https://hansimov.gitbook.io/csapp/
+*   [hustlei/QssStylesheetEditor](https://github.com/hustlei/QssStylesheetEditor) - Editor for qt stylesheet (qss).  Real-time preview, and user can define varibles in qss.
 
-*   [Halbmond/Introduction-to-Computer-Systems](https://github.com/Halbmond/Introduction-to-Computer-Systems) - Course : Introduction to Computer Systems
+*   [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 
-*   [CS-icez/introduction-to-computer-systems](https://github.com/CS-icez/introduction-to-computer-systems) - F22 PKU course “Introduction to Computer System” (ICS) lab solutions. Top 1 in archlab and malloclab.
+*   [sailinglove/PKUIntro2ComputationC\_dxf21autumn](https://github.com/sailinglove/PKUIntro2ComputationC_dxf21autumn) - example solution code for some of the homework of dxf's Introduction to Computation C in 2021 spring semester
 
-*   [Veiasai/ics-2017-lab7](https://github.com/Veiasai/ics-2017-lab7) -
+*   [tupton/alfred-safari-history](https://github.com/tupton/alfred-safari-history) - Search your Safari history in Alfred
 
-*   [zhouyuyang2002/ICS-lab](https://github.com/zhouyuyang2002/ICS-lab) - 存放 2021 学期 PKU-ICS 所有 lab
+*   [Alvin9999/new-pac](https://github.com/Alvin9999/new-pac) - 翻墙-科学上网、自由上网、免费科学上网、免费翻墙、fanqiang、油管youtube/视频下载、软件、VPN、一键翻墙浏览器，vps一键搭建翻墙服务器脚本/教程，免费shadowsocks/ss/ssr/v2ray/goflyway账号/节点，翻墙梯子，电脑、手机、iOS、安卓、windows、Mac、Linux、路由器翻墙、科学上网、youtube视频下载、youtube油管镜像/免翻墙网站、美区apple id共享账号、翻墙-科学上网-梯子
 
-*   [Seterplus/CSAPP](https://github.com/Seterplus/CSAPP) - CSAPP Labs
+*   [jianyq/Tong-Music](https://github.com/jianyq/Tong-Music) - Lyrics and rap lyrics AI-generate system based on GPT-2 and LSTM / 基于GPT-2和LSTM的歌词和说唱歌词创作系统
 
-*   [UsanoCoCr/PKUICS](https://github.com/UsanoCoCr/PKUICS) - 北京大学2023-2024学年ICS计算机系统导论个人资料整理
+*   [zhuozhiyongde/Alfred\_HeWeather\_Workflow](https://github.com/zhuozhiyongde/Alfred_HeWeather_Workflow) - 基于和风天气API的Workflow，支持灾害预警、AQI、今日天气、三日内天气查询。需自行配置API。
 
-*   [EmptyBlueBox/Introduction\_to\_Computer\_System\_ICS-gxt-2022Fall-PKU](https://github.com/EmptyBlueBox/Introduction_to_Computer_System_ICS-gxt-2022Fall-PKU) -
+*   [deanishe/alfred-workflow](https://github.com/deanishe/alfred-workflow) - Full-featured library for writing Alfred 3 & 4 workflows
 
-*   [valinet/ExplorerPatcher](https://github.com/valinet/ExplorerPatcher) - This project aims to enhance the working environment on Windows
-
-*   [firmianay/CTF-All-In-One](https://github.com/firmianay/CTF-All-In-One) - CTF竞赛权威指南
-
-*   [allinurl/goaccess](https://github.com/allinurl/goaccess) - GoAccess is a real-time web log analyzer and interactive viewer that runs in a terminal in \*nix systems or through your browser.
-
-*   [a-darwish/cuteOS](https://github.com/a-darwish/cuteOS) - A 64-bit SMP-safe kernel for the PC architecture.
-
-*   [Exely/CSAPP-Labs](https://github.com/Exely/CSAPP-Labs) - Solutions and Notes for Labs of Computer Systems: A Programmer's Perspective 3rd Editon // 《深入理解计算机系统》第三版的实验文件、解答与笔记
+*   [skefy/alfred\_workflow\_weather](https://github.com/skefy/alfred_workflow_weather) - 天气查询
 
 ## JavaScript
 
@@ -928,6 +1025,20 @@
 
 *   [summitech/gitexplorer](https://github.com/summitech/gitexplorer) - Find the right git commands without digging through the web.
 
+*   [AllanChain/PKUHoleCommunity](https://github.com/AllanChain/PKUHoleCommunity) - P 大树洞网页版社区分支，欢迎大家动手自己实现功能
+
+*   [vinta/pangu.js](https://github.com/vinta/pangu.js) - Paranoid text spacing in JavaScript
+
+*   [zhuozhiyongde/PKU-News](https://github.com/zhuozhiyongde/PKU-News) - 一个基于爬虫的，对于北大树洞数据进行统计并分析的热榜
+
+*   [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
+
+*   [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
+
+*   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
+
+*   [Hazard4U/TodoListWidget](https://github.com/Hazard4U/TodoListWidget) - Übersicht Widget, TodoList, Weather, Date
+
 ## Typst
 
 *   [FuryMartin/I-QinShiHuang-Money](https://github.com/FuryMartin/I-QinShiHuang-Money) - 我，秦始皇，打钱！可以开发票。
@@ -980,6 +1091,10 @@
 
 *   [dempfi/ayu](https://github.com/dempfi/ayu) - 🎨🖌 Modern Sublime Text theme
 
+*   [dragen1860/Deep-Learning-with-TensorFlow-book](https://github.com/dragen1860/Deep-Learning-with-TensorFlow-book) - 深度学习入门开源书，基于TensorFlow 2.0案例实战。Open source Deep Learning book, based on TensorFlow 2.0 framework.
+
+*   [bryandlee/animegan2-pytorch](https://github.com/bryandlee/animegan2-pytorch) - PyTorch implementation of AnimeGANv2
+
 ## C\#
 
 *   [phaselden/FlipIt](https://github.com/phaselden/FlipIt) - Flip Clock screensaver
@@ -998,7 +1113,7 @@
 
 *   [weiyourumeng/RM-Toolbox](https://github.com/weiyourumeng/RM-Toolbox) - 入梦工具箱
 
-*   [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Removes Ads From Various Places Around Windows 11
+*   [xM4ddy/OFGB](https://github.com/xM4ddy/OFGB) - GUI Tool To Remove Ads From Various Places Around Windows 11
 
 *   [ZGGSONG/STranslate](https://github.com/ZGGSONG/STranslate) - A ready-to-go translation ocr tool developed by WPF/WPF 开发的一款即用即走的翻译、OCR工具
 
@@ -1045,6 +1160,24 @@
 *   [LimitTrade/LimitTrade](https://github.com/LimitTrade/LimitTrade) -
 
 *   [marticliment/UniGetUI](https://github.com/marticliment/UniGetUI) - UniGetUI: The Graphical Interface for your package managers. Could be terribly described as a package manager manager to manage your package managers
+
+*   [zLulus/NotePractice](https://github.com/zLulus/NotePractice) - My\_Note 笔记练习demo
+
+*   [sourcechord/FluentWPF](https://github.com/sourcechord/FluentWPF) - Fluent Design System for WPF.
+
+*   [Kinnara/ModernWpf](https://github.com/Kinnara/ModernWpf) - Modern styles and controls for your WPF applications
+
+*   [microsoft/WPF-Samples](https://github.com/microsoft/WPF-Samples) - Repository for WPF related samples
+
+*   [HandyOrg/HandyControl](https://github.com/HandyOrg/HandyControl) - Contains some simple and commonly used WPF controls
+
+*   [Mythologyli/iOSFakeRun](https://github.com/Mythologyli/iOSFakeRun) - 基于虚拟定位的 iOS 免越狱模拟跑步打卡，在线拾取路径，可设置循环次数和跑步速度
+
+*   [AutoDarkMode/Windows-Auto-Night-Mode](https://github.com/AutoDarkMode/Windows-Auto-Night-Mode) - Automatically switches between the dark and light theme of Windows 10 and Windows 11
+
+*   [rn7s2/MT4REST](https://github.com/rn7s2/MT4REST) - RESTful API Wrapper for MT4 .NET API.
+
+*   [KakaWanYifan/CaptureToText](https://github.com/KakaWanYifan/CaptureToText) - First Capture,Then transfer the capture to text.
 
 ## Shell
 
@@ -1097,6 +1230,8 @@
 *   [keycastr/keycastr](https://github.com/keycastr/keycastr) - KeyCastr, an open-source keystroke visualizer
 
 *   [sunnyyoung/WeChatTweak-macOS](https://github.com/sunnyyoung/WeChatTweak-macOS) - A dynamic library tweak for WeChat macOS - 首款微信 macOS 客户端撤回拦截与多开 🔨
+
+*   [MustangYM/WeChatExtension-ForMac](https://github.com/MustangYM/WeChatExtension-ForMac) - A plugin for Mac WeChat
 
 ## Swift
 
@@ -1180,6 +1315,16 @@
 
 *   [iina/iina](https://github.com/iina/iina) - The modern video player for macOS.
 
+*   [AppHouseKitchen/AlDente-Charge-Limiter](https://github.com/AppHouseKitchen/AlDente-Charge-Limiter) - Menubar Tool to set Charge Limits and Prolong Battery Lifespan
+
+*   [quoid/userscripts](https://github.com/quoid/userscripts) - An open-source userscript manager for Safari
+
+*   [xjbeta/Aria2D](https://github.com/xjbeta/Aria2D) - Aria2 GUI for macOS
+
+*   [jacklandrin/OnlySwitch](https://github.com/jacklandrin/OnlySwitch) - ⚙️ All-in-One menu bar app, hide 💻MacBook Pro's notch, dark mode, AirPods, Shortcuts
+
+*   [RanKKI/LawRefBook](https://github.com/RanKKI/LawRefBook) - 中华人民共和国法律手册
+
 ## GLSL
 
 *   [hooke007/MPV\_lazy](https://github.com/hooke007/MPV_lazy) - 🔄 mpv player 播放器折腾记录 windows conf ； 中文注释配置 快速帮助入门 ； mpv-lazy 懒人包 win10 x64 config
@@ -1241,6 +1386,10 @@
 *   [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
 *   [FiloSottile/mkcert](https://github.com/FiloSottile/mkcert) - A simple zero-config tool to make locally trusted development certificates with any names you'd like.
+
+*   [fangdevelop/note](https://github.com/fangdevelop/note) - fang's programming notes
+
+*   [Mrs4s/go-cqhttp](https://github.com/Mrs4s/go-cqhttp) - cqhttp的golang实现，轻量、原生跨平台.
 
 ## Rust
 
@@ -1308,6 +1457,8 @@
 
 *   [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 
+*   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book
+
 ## Dart
 
 *   [bostrot/wsl2-distro-manager](https://github.com/bostrot/wsl2-distro-manager) - A GUI to quickly manage your WSL2 instances
@@ -1366,6 +1517,12 @@
 
 *   [EmptyBlueBox/Practice\_of\_Programming\_in\_C\_and\_CPP\_cxsjsx-ljy-2022Spring-PKU](https://github.com/EmptyBlueBox/Practice_of_Programming_in_C_and_CPP_cxsjsx-ljy-2022Spring-PKU) - I love C++.
 
+*   [m2jean/ToothTray](https://github.com/m2jean/ToothTray) - A tray icon in Windows task bar to quickly connect or disconnect bluetooth audio devices.
+
+*   [xiexiexx/PPLA](https://github.com/xiexiexx/PPLA) - The Paper-and-Pencil Lectures on Algorithms
+
+*   [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
+
 ## Adblock Filter List
 
 *   [neodevpro/neodevhost](https://github.com/neodevpro/neodevhost) -  The Powerful Friendly Uptodate AD Blocking Hosts  最新强大而友善的去广告
@@ -1383,6 +1540,8 @@
 *   [tuna/thuthesis](https://github.com/tuna/thuthesis) - LaTeX Thesis Template for Tsinghua University
 
 *   [winterwang/LSHTMlearningnote](https://github.com/winterwang/LSHTMlearningnote) - https://wangcc.me/LSHTMlearningnote/
+
+*   [stacks/stacks-project](https://github.com/stacks/stacks-project) - Repository for the Stacks Project
 
 ## HTML
 
@@ -1420,6 +1579,22 @@
 
 *   [javascript-tutorial/zh.javascript.info](https://github.com/javascript-tutorial/zh.javascript.info) - 现代 JavaScript 教程（The Modern JavaScript Tutorial），以最新的 ECMAScript 规范为基准，通过简单但足够详细的内容，为你讲解从基础到高阶的 JavaScript 相关知识。
 
+*   [microsoft/ai-edu](https://github.com/microsoft/ai-edu) - AI education materials for Chinese students, teachers and IT professionals.
+
+*   [adamschwartz/log](https://github.com/adamschwartz/log) - Console.log with style.
+
+*   [QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles) - 浙江大学课程攻略共享计划
+
+*   [PKUanonym/REKCARC-TSC-UHT](https://github.com/PKUanonym/REKCARC-TSC-UHT) - 清华大学计算机系课程攻略 Guidance for courses in Department of Computer Science and Technology, Tsinghua University
+
+*   [MagmaBlock/LavaAnimeWeb](https://github.com/MagmaBlock/LavaAnimeWeb) - 熔岩番剧库，一个自用的私有动画库。此仓库为静态网页托管及源码
+
+*   [dibingfa/flash-linux0.11-talk](https://github.com/dibingfa/flash-linux0.11-talk) - 你管这破玩意叫操作系统源码 — 像小说一样品读 Linux 0.11 核心代码
+
+*   [PKUFlyingPig/cs-self-learning](https://github.com/PKUFlyingPig/cs-self-learning) - 计算机自学指南
+
+*   [iwxf/free-v2ray](https://github.com/iwxf/free-v2ray) -
+
 ## Java
 
 *   [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection
@@ -1429,6 +1604,14 @@
 *   [krahets/hello-algo](https://github.com/krahets/hello-algo) - 《Hello 算法》：动画图解、一键运行的数据结构与算法教程。支持 Python, Java, C++, C, C#, JS, Go, Swift, Rust, Ruby, Kotlin, TS, Dart 代码。简体版和繁体版同步更新，English version ongoing
 
 *   [Kong/unirest-java](https://github.com/Kong/unirest-java) - Unirest in Java: Simplified, lightweight HTTP client library.
+
+*   [supertokens/supertokens-core](https://github.com/supertokens/supertokens-core) - Open source alternative to Auth0 / Firebase Auth / AWS Cognito
+
+*   [f0ng/captcha-killer-modified](https://github.com/f0ng/captcha-killer-modified) - captcha-killer的修改版，支持关键词识别base64编码的图片，添加免费ocr库，用于验证码爆破，适配新版Burpsuite
+
+*   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
+
+*   [nickrussler/email-to-pdf-converter](https://github.com/nickrussler/email-to-pdf-converter) - Converts email files (eml, msg) to pdf
 
 ## PowerShell
 
@@ -1462,11 +1645,15 @@
 
 *   [phuocng/csslayout](https://github.com/phuocng/csslayout) - A collection of popular layouts and patterns made with CSS. Now it has 100+ patterns and continues growing!
 
+*   [hoppscotch/docs](https://github.com/hoppscotch/docs) - 📖 Hoppscotch documentation - https://docs.hoppscotch.io
+
 ## Batchfile
 
 *   [WindowsAddict/IDM-Activation-Script](https://github.com/WindowsAddict/IDM-Activation-Script) - An open source tool to activate and reset trial of Internet Download Manager
 
 *   [lxgw/LxgwWenkaiGB](https://github.com/lxgw/LxgwWenkaiGB) - An open-source Simplified Chinese font derived from Klee One.
+
+*   [massgravel/Microsoft-Activation-Scripts](https://github.com/massgravel/Microsoft-Activation-Scripts) - Open-source Windows and Office activator featuring HWID, Ohook, KMS38, and Online KMS activation methods, along with advanced troubleshooting.
 
 ## PHP
 
@@ -1477,6 +1664,10 @@
 *   [collabnix/dockerlabs](https://github.com/collabnix/dockerlabs) - Docker  - Beginners | Intermediate | Advanced
 
 *   [assimon/dujiaoka](https://github.com/assimon/dujiaoka) - 🦄独角数卡(自动售货系统)-开源站长自动化售货解决方案、高效、稳定、快速！🚀🚀🎉🎉
+
+*   [antonkomarev/github-profile-views-counter](https://github.com/antonkomarev/github-profile-views-counter) - It counts how many times your GitHub profile has been viewed. Free cloud micro-service.
+
+*   [solstice23/argon-theme](https://github.com/solstice23/argon-theme) - 📖 Argon - 一个轻盈、简洁的 WordPress 主题
 
 ## Markdown
 
@@ -1524,6 +1715,8 @@
 
 *   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 
+*   [lydrainbowcat/tedukuri](https://github.com/lydrainbowcat/tedukuri) - 《算法竞赛进阶指南》资源社区
+
 ## Stylus
 
 *   [LynnAchieve/WebSite\_Sakurarealm](https://github.com/LynnAchieve/WebSite_Sakurarealm) - 基于Hexo Butterfly主题魔改的芸樱绘境网站
@@ -1531,6 +1724,8 @@
 ## Kotlin
 
 *   [shaokeyibb/ScaryGitHubFeed](https://github.com/shaokeyibb/ScaryGitHubFeed) - Mirai 插件 - 实时推送用户的 GitHub 动态到 QQ 群
+
+*   [TianmuLong/ChatDragon-Core](https://github.com/TianmuLong/ChatDragon-Core) - A Multi Chat Client
 
 ## Clojure
 
@@ -1546,9 +1741,23 @@
 
 *   [Keldos-Li/typora-latex-theme](https://github.com/Keldos-Li/typora-latex-theme) - 将Typora伪装成LaTeX的中文样式主题，本科生轻量级课程论文撰写的好帮手。This is a theme disguising Typora into Chinese LaTeX style.
 
+*   [alphardex/aqua.css](https://github.com/alphardex/aqua.css) - An elegant CSS Framework.
+
 ## Lua
 
 *   [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
+
+## MATLAB
+
+*   [TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave) - This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.
+
+## Terra
+
+*   [OrangeX4/NJUAI-Notes](https://github.com/OrangeX4/NJUAI-Notes) - 我在南京大学人工智能专业学习时所做的笔记 :-)
+
+## CoffeeScript
+
+*   [mzlogin/chinese-copywriting-guidelines](https://github.com/mzlogin/chinese-copywriting-guidelines) - Chinese Copywriting Guidelines：中文文案排版指北（简体中文版）
 
 ## Thanks
 
