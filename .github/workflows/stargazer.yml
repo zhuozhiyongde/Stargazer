@@ -13,7 +13,7 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - name: Stargazer
-              uses: zhuozhiyongde/gaze-stars@latest
+              uses: zhuozhiyongde/gaze-stars@1.0.0
               with:
                   api-token: ${{ secrets.API_TOKEN }}
                   github-username: ${{ github.repository_owner }}
