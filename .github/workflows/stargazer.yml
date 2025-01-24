@@ -1,0 +1,24 @@
+name: Stargazer
+
+on:
+    push:
+        branches:
+            - main
+    workflow_dispatch:
+    schedule:
+        - cron: '0 0 * * *'
+
+jobs:
+    stargazer:
+        runs-on: ubuntu-latest
+        steps:
+            - name: Stargazer
+              uses: zhuozhiyongde/gaze-stars@latest
+              with:
+                  api-token: ${{ secrets.API_TOKEN }}
+                  github-username: ${{ github.repository_owner }}
+                  git-name: Github Action
+                  git-email: actions@users.noreply.github.com
+                  git-message: '🔧 chore: Update README.md'
+                  template-path: template/template.md
+                  output-path: README.md
