@@ -141,7 +141,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 -   [danny-avila/LibreChat](https://github.com/danny-avila/LibreChat) - Enhanced ChatGPT Clone: Features Agents, Anthropic, AWS, OpenAI, Assistants API, Azure, Groq, o1, GPT-4o, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI model switching, message search, Code Interpreter, langchain, DALL-E-3, OpenAPI Actions, Functions, Secure Multi-User Auth, Presets, open-source for self-hosting. Active project.
 -   [theatre-js/theatre](https://github.com/theatre-js/theatre) - Motion design editor for the web
--   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
+-   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 一款革新性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。官方文档：https://fluent.thinkstu.com
 -   [BewlyBewly/BewlyBewly](https://github.com/BewlyBewly/BewlyBewly) - Just make a few small changes to your Bilibili homepage. (English | 简体中文 | 正體中文 | 廣東話)
 -   [ArtalkJS/Artalk](https://github.com/ArtalkJS/Artalk) - 🌌  Your Self-hosted Comment System. | 自托管评论系统
 -   [Avikam03/screentime](https://github.com/Avikam03/screentime)
@@ -184,6 +184,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
 -   [guhrodrrigues/luxe](https://github.com/guhrodrrigues/luxe) - Copy & Paste components. Illuminate your apps. Fast and Easy.
 -   [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
+-   [Aebel-Shajan/year-in-data](https://github.com/Aebel-Shajan/year-in-data) - Made this to visualise what I did in 2024 through annual activity heatmaps.
 
 ## ICS
 
@@ -270,6 +271,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 -   [mhaeuser/Battery-Toolkit](https://github.com/mhaeuser/Battery-Toolkit) - Control the platform power state of your Apple Silicon Mac.
 -   [shahrviral/Mac-Setup](https://github.com/shahrviral/Mac-Setup) - Buy me a coffee / book / beer
+-   [jaywcjlove/key-clicker](https://github.com/jaywcjlove/key-clicker) - KeyClicker is a macOS app that simulates the authentic typing sounds of mechanical keyboards and typewriters.
 
 ## School
 
@@ -393,7 +395,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [imlinhanchao/vsc-markdown-image](https://github.com/imlinhanchao/vsc-markdown-image) - Easy to insert a image to markdown
 -   [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter) - :rocket: Easy way to know how many visitors are viewing your Github, Website, Notion. :tada:
 -   [Aloxaf/silicon](https://github.com/Aloxaf/silicon) - Create beautiful image of your source code.
--   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 拥有基于上下文语境的人工智能翻译引擎，为网站提供更加友好的翻译，让所有人都能够拥有基于母语般的阅读体验。
+-   [Bistutu/FluentRead](https://github.com/Bistutu/FluentRead) - 一款革新性的浏览器开源翻译插件，让所有人都能够拥有基于母语般的阅读体验。官方文档：https://fluent.thinkstu.com
 -   [xiaoxuan6/weekly](https://github.com/xiaoxuan6/weekly) - 【周刊】针对优秀项目、软件、教程资料、网站等。
 -   [yaobiao131/downkyicore](https://github.com/yaobiao131/downkyicore) - 哔哩下载姬(跨平台版)downkyi，哔哩哔哩网站视频下载工具，支持批量下载，支持8K、HDR、杜比视界，提供工具箱（音视频提取、去水印等）。
 -   [Borber/Tran](https://github.com/Borber/Tran) - 简洁, 快速, 划词翻译
@@ -466,6 +468,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id) - 一键修改cursor 设备ID，解除设备锁定状态，为什么会有这个工具。。。因为我的设备被锁了。。。。
 -   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 -   [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - Easily configure your favorite Linux distribution as a router using the web UI
+-   [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files, bookmarks, tags, properties, and ribbon commands.
 
 ## Windows
 
