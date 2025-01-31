@@ -95,7 +95,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [CaliCastle/cali.so](https://github.com/CaliCastle/cali.so) - Cali 的个人官网开源项目
 -   [nolebase/nolebase](https://github.com/nolebase/nolebase) - A place to record memories, knowledge and ideas | 记录回忆，知识和畅想的地方
 -   [FuryMartin/I-QinShiHuang-Money](https://github.com/FuryMartin/I-QinShiHuang-Money) - 我，秦始皇，打钱！可以开发票。
--   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [Try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+-   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 
 ## Frontend
 
@@ -187,7 +187,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [jordienr/whatamesh](https://github.com/jordienr/whatamesh) - tool to create mesh gradients
 -   [ccbikai/RSS.Beauty](https://github.com/ccbikai/RSS.Beauty) - Make Your RSS Beautiful!
 -   [sdras/cssgridgenerator](https://github.com/sdras/cssgridgenerator) - 🧮 Generate basic CSS Grid code to make dynamic layouts!
--   [guhrodrrigues/luxe](https://github.com/guhrodrrigues/luxe) - Copy & Paste components. Illuminate your apps. Fast and Easy.
+-   [guhrodrrigues/luxe](https://github.com/guhrodrrigues/luxe) - Copy and paste components ready to use. Practical & customizable.
 -   [Uninen/vite-ts-tailwind-starter](https://github.com/Uninen/vite-ts-tailwind-starter) - Opinionated Vite + Vue 3 + TypeScript + Tailwind CSS starter template w/ tests and CI.
 -   [Aebel-Shajan/year-in-data](https://github.com/Aebel-Shajan/year-in-data) - Made this to visualise what I did in 2024 through annual activity heatmaps.
 -   [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) -  Apple-like smooth corners for Tailwind CSS.
@@ -465,7 +465,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [KingRayCao/PKU-Annual-Eat](https://github.com/KingRayCao/PKU-Annual-Eat) - 一年过去了，你在白鲸食堂里花的钱都花在哪儿了？
 -   [zhuohaoyu/PKU-Annual-Eat](https://github.com/zhuohaoyu/PKU-Annual-Eat) - 一年过去了，你在白鲸食堂里花的钱都花在哪儿了？
 -   [SukkaW/Make-Bilibili-Great-Than-Ever-Before](https://github.com/SukkaW/Make-Bilibili-Great-Than-Ever-Before) - A fork of the userscript "Make Bilibili Great Again", but with some experimental features
--   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - [Try V7!] Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1
+-   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and command line, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
 -   [vercel/satori](https://github.com/vercel/satori) - Enlightened library to convert HTML and CSS to SVG
 -   [Sunzxyong/Tiny](https://github.com/Sunzxyong/Tiny) - an image compression framework.（一个高保真、高压缩比的图片压缩框架）
 -   [ocrmypdf/OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - OCRmyPDF adds an OCR text layer to scanned PDF files, allowing them to be searched
@@ -725,7 +725,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [wechaty/wechaty](https://github.com/wechaty/wechaty) - Conversational RPA SDK for Chatbot Makers. Join our Discord: https://discord.gg/7q8NBZbQzt
 -   [tw93/Pake](https://github.com/tw93/Pake) - 🤱🏻 Turn any webpage into a desktop app with Rust.  🤱🏻 利用 Rust 轻松构建轻量级多端桌面应用
 -   [shengqiangzhang/examples-of-web-crawlers](https://github.com/shengqiangzhang/examples-of-web-crawlers) - 一些非常有趣的python爬虫例子,对新手比较友好,主要爬取淘宝、天猫、微信、微信读书、豆瓣、QQ等网站。(Some interesting examples of python crawlers that are friendly to beginners. )
--   [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler using LLVM
+-   [exaloop/codon](https://github.com/exaloop/codon) - A high-performance, zero-overhead, extensible Python compiler with built-in NumPy support
 -   [be5invis/Sarasa-Gothic](https://github.com/be5invis/Sarasa-Gothic) - Sarasa Gothic / 更纱黑体 / 更紗黑體 / 更紗ゴシック / 사라사 고딕
 -   [TGSAN/CMWTAT_Digital_Edition](https://github.com/TGSAN/CMWTAT_Digital_Edition) - CloudMoe Windows 10/11 Activation Toolkit get digital license, the best open source Win 10/11 activator in GitHub. GitHub 上最棒的开源 Win10/Win11 数字权利（数字许可证）激活工具！
 -   [Caldis/Mos](https://github.com/Caldis/Mos) - 一个用于在 macOS 上平滑你的鼠标滚动效果或单独设置滚动方向的小工具, 让你的滚轮爽如触控板  |  A lightweight tool used to smooth scrolling and set scroll direction independently for your mouse on macOS
