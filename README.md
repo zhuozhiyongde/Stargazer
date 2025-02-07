@@ -62,7 +62,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [PKUFlyingPig/CMU10-714](https://github.com/PKUFlyingPig/CMU10-714) - Learning material for CMU10-714: Deep Learning System
 -   [boyu-ai/Hands-on-RL](https://github.com/boyu-ai/Hands-on-RL) - https://hrl.boyuai.com/
 -   [16131zzzzzzzz/EveryoneNobel](https://github.com/16131zzzzzzzz/EveryoneNobel) - A flexible framework powered by ComfyUI for generating personalized Nobel Prize images.
--   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」3小时完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 3 hours!
+-   [jingyaogong/minimind](https://github.com/jingyaogong/minimind) - 🚀🚀 「大模型」50分钟完全从0训练26M的小参数GPT！🌏 Train a 26M-parameter GPT from scratch in just 50 min!
 -   [datawhalechina/self-llm](https://github.com/datawhalechina/self-llm) - 《开源大模型食用指南》针对中国宝宝量身打造的基于Linux环境快速微调（全参数/Lora）、部署国内外开源大模型（LLM）/多模态大模型（MLLM）教程
 -   [datawhalechina/llm-universe](https://github.com/datawhalechina/llm-universe) - 本项目是一个面向小白开发者的大模型应用开发教程，在线阅读地址：https://datawhalechina.github.io/llm-universe/
 -   [Byaidu/PDFMathTranslate](https://github.com/Byaidu/PDFMathTranslate) - PDF scientific paper translation with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/Docker/Zotero
