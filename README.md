@@ -475,7 +475,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [fly8888/cursor_machine_id](https://github.com/fly8888/cursor_machine_id) - 一键修改cursor 设备ID，解除设备锁定状态，为什么会有这个工具。。。因为我的设备被锁了。。。。
 -   [readest/readest](https://github.com/readest/readest) - Readest is a modern, feature-rich ebook reader designed for avid readers offering seamless cross-platform access, powerful tools, and an intuitive interface to elevate your reading experience.
 -   [ThisSeanZhang/landscape](https://github.com/ThisSeanZhang/landscape) - Easily configure your favorite Linux distribution as a router using the web UI
--   [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files, bookmarks, tags, properties, and ribbon commands.
+-   [gfxholo/iconic](https://github.com/gfxholo/iconic) - Customize your icons and colors directly from the Obsidian UI, including tabs, files & folders, bookmarks, tags, properties, and ribbon commands.
 -   [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 -   [mtwn105/GitHubWrapped](https://github.com/mtwn105/GitHubWrapped) - GitHub Wrapped - Your Year in Code
 -   [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
@@ -574,7 +574,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 -   [RIA-AED/RIAWebsite](https://github.com/RIA-AED/RIAWebsite) - RIA 的官方站点前端
 -   [QiuChenlyOpenSource/InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) - 基于Ruby编写的命令行注入版本
--   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source.
+-   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
 -   [antfu/raycast-multi-translate](https://github.com/antfu/raycast-multi-translate) - A Raycast extension that translates text to multiple languages at once
 -   [wsdjeg/Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) - 聪明地学习Vim
 -   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
@@ -638,7 +638,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 -   [nuxt/icon](https://github.com/nuxt/icon) - The <Icon> component, supporting Iconify, Emojis and custom components.
 -   [xiaochunjimmy/Sogou-Input-Skin](https://github.com/xiaochunjimmy/Sogou-Input-Skin) - 搜狗拼音输入法的几款极简风格皮肤
--   [raffeyang/wechat](https://github.com/raffeyang/wechat) - A RayCast extension for WeChat  to quickly search your contacts and chat.Raycast 微信插件，微信效率工具，快速搜索微信好友并进行聊天。
+-   [RaffeYang/wechat](https://github.com/RaffeYang/wechat) - A RayCast extension for WeChat  to quickly search your contacts and chat.Raycast 微信插件，微信效率工具，快速搜索微信好友并进行聊天。
 -   [iloveitaly/hyper-focus](https://github.com/iloveitaly/hyper-focus) - Block hosts, apps, specific urls (with query string vars!), launch scripts on wake, and generally optimize your productivity and focus
 -   [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 -   [xilopaint/alfred-about-this-mac](https://github.com/xilopaint/alfred-about-this-mac) - Shows About This Mac info in Alfred.
