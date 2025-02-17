@@ -575,7 +575,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 -   [RIA-AED/RIAWebsite](https://github.com/RIA-AED/RIAWebsite) - RIA 的官方站点前端
 -   [QiuChenlyOpenSource/InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) - 基于Ruby编写的命令行注入版本
--   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible, and customizable components to help you build your component library. Open Source.
+-   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 -   [antfu/raycast-multi-translate](https://github.com/antfu/raycast-multi-translate) - A Raycast extension that translates text to multiple languages at once
 -   [wsdjeg/Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) - 聪明地学习Vim
 -   [codewithsadee/vcard-personal-portfolio](https://github.com/codewithsadee/vcard-personal-portfolio) - vCard is a fully responsive personal portfolio website, responsive for all devices.
