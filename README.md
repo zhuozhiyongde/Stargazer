@@ -308,6 +308,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [HazyResearch/aisys-building-blocks](https://github.com/HazyResearch/aisys-building-blocks) - Building blocks for foundation models.
 -   [tongyx361/Awesome-LLM-Research](https://github.com/tongyx361/Awesome-LLM-Research) - Curation of resources for LLM research, screened by @tongyx361 to ensure high quality and accompanied with elaborately-written concise descriptions to help readers get the gist as quickly as possible.
 -   [V1CeVersaa/V1CeVersaa.github.io](https://github.com/V1CeVersaa/V1CeVersaa.github.io) - repo of V1CeVersa's notebook
+-   [vwOvOwv/PKU-Undergraduate-Course-Public](https://github.com/vwOvOwv/PKU-Undergraduate-Course-Public) - Course resources for undergraduates of Peking University in computer science, life sciences, and other subjects.
 
 ## Tools
 
@@ -442,7 +443,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [Sanster/IOPaint](https://github.com/Sanster/IOPaint) - Image inpainting tool powered by SOTA AI Model. Remove any unwanted object, defect, people from your pictures or erase and replace(powered by stable diffusion) any thing on your pictures.
 -   [minio/minio](https://github.com/minio/minio) - MinIO is a high-performance, S3 compatible object store, open sourced under GNU AGPLv3 license.
 -   [zfb132/qcloud-ssl-cdn](https://github.com/zfb132/qcloud-ssl-cdn) - 使用API实现腾讯云CDN服务自动更换自己申请的Let's Encrypt证书
--   [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection
+-   [jplag/JPlag](https://github.com/jplag/JPlag) - State-of-the-Art Source Code Plagiarism & Collusion Detection. Check for plagiarism in a set of programs.
 -   [cdgriffith/Box](https://github.com/cdgriffith/Box) - Python dictionaries with advanced dot notation access
 -   [souying/vercel-api-proxy](https://github.com/souying/vercel-api-proxy) - vercel反向代理。完全免费，万能代理，可代理全网一切接口，包括openai、github、google、Telegram、全面代理ai项目一键安装
 -   [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
