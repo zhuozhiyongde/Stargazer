@@ -86,6 +86,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [MrGiovanni/SuPreM](https://github.com/MrGiovanni/SuPreM) - [ICLR 2024 Oral] Supervised Pre-Trained 3D Models for Medical Image Analysis (9,262 CT volumes + 25 annotated classes)
 -   [Unakar/Efficient_AI](https://github.com/Unakar/Efficient_AI) - 此项目是我个人对MIT 6.5940 课程作业的答案，学习笔记和心得。
 -   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+-   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
 
 ## Design
 
