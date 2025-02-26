@@ -130,7 +130,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [TNXG/Shiro](https://github.com/TNXG/Shiro) - 📜 Shiro: A minimalist personal website embodying the purity of paper and freshness of snow.
 -   [TNXGLab/Shiro](https://github.com/TNXGLab/Shiro) - 📜 A minimalist personal website embodying the purity of paper and freshness of snow.
 -   [saadeghi/daisyui](https://github.com/saadeghi/daisyui) - 🌼 🌼 🌼 🌼 🌼  The most popular, free and open-source Tailwind CSS component library
--   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / Qwen /  DeepSeek), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Vision/TTS/Plugins/Artifacts). One-click FREE deployment of your private ChatGPT/ Claude application.
+-   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 -   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 -   [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
 -   [dsrkafuu/misans](https://github.com/dsrkafuu/misans) - MiSans (subsetted) fonts from Xiaomi for free (web) use. | 小米 MiSans 字体 (网页)。
@@ -171,7 +171,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 -   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 -   [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
--   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) system with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework restrictions.
+-   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) infrastructure with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework restrictions.
 -   [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 -   [YunYouJun/kotodama](https://github.com/YunYouJun/kotodama) - 💬 掌控言灵的魔法，一个优雅的纯静态评论管理后台
 -   [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
@@ -302,7 +302,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [yhtq/Notes](https://github.com/yhtq/Notes) - 课程笔记
 -   [fool2fish/dragon-book-exercise-answers](https://github.com/fool2fish/dragon-book-exercise-answers) - Compilers Principles, Techniques, & Tools (purple dragon book) second edition exercise answers. 编译原理（紫龙书）第2版习题答案。
 -   [pku-minic/online-doc](https://github.com/pku-minic/online-doc) - PKU compiler course online documentation.
--   [CaptainHarryChen/StupidSysY2RV](https://github.com/CaptainHarryChen/StupidSysY2RV) - 北京大学编译原理课程实践2023春，一个SysY到RISC-V的编译器，实践文档：https://pku-minic.github.io/online-doc/#/
+-   [CaptainHarryChen/StupidSysY2RV](https://github.com/CaptainHarryChen/StupidSysY2RV) - The final project of PKU course Compilers: Principles in Spring 2023, a SysY to RISC-V compiler. Document:：https://pku-minic.github.io/online-doc/#/
 -   [boyu-ai/Hands-on-RL](https://github.com/boyu-ai/Hands-on-RL) - https://hrl.boyuai.com/
 -   [re-book/ptmst](https://github.com/re-book/ptmst) - Probability Theory and Mathematical Statistics Tutorial
 -   [PKU-GeekGame/geekgame-4th](https://github.com/PKU-GeekGame/geekgame-4th)
@@ -482,6 +482,8 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [lusingander/serie](https://github.com/lusingander/serie) - A rich git commit graph in your terminal, like magic 📚
 -   [mtwn105/GitHubWrapped](https://github.com/mtwn105/GitHubWrapped) - GitHub Wrapped - Your Year in Code
 -   [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
+-   [BiancoChiu/iOSRealRun-cli-18](https://github.com/BiancoChiu/iOSRealRun-cli-18) - (iOS 18) 基于虚拟定位的 iOS 免越狱模拟跑步打卡，跨平台支持，在线拾取路径，可设置跑步速度，随机速度与路线
+-   [beilunyang/moepush](https://github.com/beilunyang/moepush) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
 
 ## Windows
 
