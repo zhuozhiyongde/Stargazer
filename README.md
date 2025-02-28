@@ -86,7 +86,8 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [MrGiovanni/SuPreM](https://github.com/MrGiovanni/SuPreM) - [ICLR 2024 Oral] Supervised Pre-Trained 3D Models for Medical Image Analysis (9,262 CT volumes + 25 annotated classes)
 -   [Unakar/Efficient_AI](https://github.com/Unakar/Efficient_AI) - 此项目是我个人对MIT 6.5940 课程作业的答案，学习笔记和心得。
 -   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
--   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA)
+-   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs
+-   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
 
 ## Design
 
@@ -97,6 +98,10 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [nolebase/nolebase](https://github.com/nolebase/nolebase) - A place to record memories, knowledge and ideas | 记录回忆，知识和畅想的地方
 -   [FuryMartin/I-QinShiHuang-Money](https://github.com/FuryMartin/I-QinShiHuang-Money) - 我，秦始皇，打钱！可以开发票。
 -   [subframe7536/maple-font](https://github.com/subframe7536/maple-font) - Maple Mono: Open source monospace font with round corner, ligatures and Nerd-Font for IDE and terminal, fine-grained customization options. 带连字和控制台图标的圆角等宽字体，中英文宽度完美2:1，细粒度的自定义选项
+
+## Embodied AI
+
+-   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
 
 ## Frontend
 
