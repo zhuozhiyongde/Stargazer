@@ -102,6 +102,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 ## Embodied AI
 
 -   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
+-   [ARISE-Initiative/robosuite](https://github.com/ARISE-Initiative/robosuite) - robosuite: A Modular Simulation Framework and Benchmark for Robot Learning
 
 ## Frontend
 
@@ -315,6 +316,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [tongyx361/Awesome-LLM-Research](https://github.com/tongyx361/Awesome-LLM-Research) - Curation of resources for LLM research, screened by @tongyx361 to ensure high quality and accompanied with elaborately-written concise descriptions to help readers get the gist as quickly as possible.
 -   [V1CeVersaa/V1CeVersaa.github.io](https://github.com/V1CeVersaa/V1CeVersaa.github.io) - repo of V1CeVersa's notebook
 -   [vwOvOwv/PKU-Undergraduate-Course-Public](https://github.com/vwOvOwv/PKU-Undergraduate-Course-Public) - Course resources for undergraduates of Peking University in computer science, life sciences, and other subjects.
+-   [Wybxc/WhichClass](https://github.com/Wybxc/WhichClass)
 
 ## Tools
 
@@ -489,6 +491,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [solidtime-io/solidtime](https://github.com/solidtime-io/solidtime) - Modern open-source time-tracking app
 -   [BiancoChiu/iOSRealRun-cli-18](https://github.com/BiancoChiu/iOSRealRun-cli-18) - (iOS 18) 基于虚拟定位的 iOS 免越狱模拟跑步打卡，跨平台支持，在线拾取路径，可设置跑步速度，随机速度与路线
 -   [beilunyang/moepush](https://github.com/beilunyang/moepush) - 一个基于 NextJS + Cloudflare 技术栈构建的可爱消息推送服务, 支持多种消息推送渠道✨
+-   [windingwind/zotero-pdf-translate](https://github.com/windingwind/zotero-pdf-translate) - Translate PDF, EPub, webpage, metadata, annotations, notes to the target language. Support 20+ translate services.
 
 ## Windows
 
@@ -658,7 +661,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [motion-canvas/motion-canvas](https://github.com/motion-canvas/motion-canvas) - Visualize Your Ideas With Code
 -   [DavidMChan/custom-alfred-warp-scripts](https://github.com/DavidMChan/custom-alfred-warp-scripts) - AppleScript for Warp.dev terminal Alfred integration.
 -   [zloirock/core-js](https://github.com/zloirock/core-js) - Standard Library
--   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 2 and 3
+-   [vueuse/vueuse](https://github.com/vueuse/vueuse) - Collection of essential Vue Composition Utilities for Vue 3
 -   [red-data-tools/YouPlot](https://github.com/red-data-tools/YouPlot) - A command line tool that draw plots on the terminal.
 -   [pyenv/pyenv](https://github.com/pyenv/pyenv) - Simple Python version management
 -   [richie5um/TextBar-Recipes](https://github.com/richie5um/TextBar-Recipes) - TextBar Recipes
