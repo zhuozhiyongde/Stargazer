@@ -77,7 +77,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [ahangchen/torch_base](https://github.com/ahangchen/torch_base) - Quickly bring up your PyTorch project(a skeleton)
 -   [HazyResearch/aisys-building-blocks](https://github.com/HazyResearch/aisys-building-blocks) - Building blocks for foundation models.
 -   [tongyx361/Awesome-LLM-Research](https://github.com/tongyx361/Awesome-LLM-Research) - Curation of resources for LLM research, screened by @tongyx361 to ensure high quality and accompanied with elaborately-written concise descriptions to help readers get the gist as quickly as possible.
--   [ali-vilab/MangaNinjia](https://github.com/ali-vilab/MangaNinjia) - Official implementation of "MangaNinja: Line Art Colorization with Precise Reference Following"
+-   [ali-vilab/MangaNinjia](https://github.com/ali-vilab/MangaNinjia) - [CVPR 2025] Official implementation of "MangaNinja: Line Art Colorization with Precise Reference Following"
 -   [WZH0120/SAM2-UNet](https://github.com/WZH0120/SAM2-UNet) - SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation
 -   [DengPingFan/PraNet](https://github.com/DengPingFan/PraNet) - PraNet: Parallel Reverse Attention Network for Polyp Segmentation, MICCAI 2020 (Oral). Code using Jittor Framework is available.
 -   [MrGiovanni/AbdomenAtlas](https://github.com/MrGiovanni/AbdomenAtlas) - [NeurIPS 2023] AbdomenAtlas 1.0 (5,195 CT volumes + 9 annotated classes)
@@ -86,7 +86,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [MrGiovanni/SuPreM](https://github.com/MrGiovanni/SuPreM) - [ICLR 2024 Oral] Supervised Pre-Trained 3D Models for Medical Image Analysis (9,262 CT volumes + 25 annotated classes)
 -   [Unakar/Efficient_AI](https://github.com/Unakar/Efficient_AI) - 此项目是我个人对MIT 6.5940 课程作业的答案，学习笔记和心得。
 -   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
--   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA Decoding Kernel for Hopper GPUs
+-   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels
 -   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
 
 ## Design
@@ -201,6 +201,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [gtokman/corner-smoothing](https://github.com/gtokman/corner-smoothing) -  Apple-like smooth corners for Tailwind CSS.
 -   [magicuidesign/magicui](https://github.com/magicuidesign/magicui) - UI Library for Design Engineers. Animated components and effects you can copy and paste into your apps. Free. Open Source.
 -   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
+-   [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite) - 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
 
 ## ICS
 
