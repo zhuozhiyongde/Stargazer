@@ -104,6 +104,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
 -   [ARISE-Initiative/robosuite](https://github.com/ARISE-Initiative/robosuite) - robosuite: A Modular Simulation Framework and Benchmark for Robot Learning
 -   [PKU-HMI-Lab/LIFT3D](https://github.com/PKU-HMI-Lab/LIFT3D) - Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation
+-   [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld) - Collections of robotics environments geared towards benchmarking multi-task and meta reinforcement learning
 
 ## Frontend
 
@@ -220,7 +221,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 ## Linux
 
 -   [louislam/uptime-kuma](https://github.com/louislam/uptime-kuma) - A fancy self-hosted monitoring tool
--   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases, and LLMs within a Linux server.
+-   [1Panel-dev/1Panel](https://github.com/1Panel-dev/1Panel) - 🔥 1Panel offers an intuitive web interface for managing websites, files, containers, databases and LLMs within a Linux server.
 -   [hunkjun/chatgpt-api-proxy](https://github.com/hunkjun/chatgpt-api-proxy) - 最简单的方式实现自建主机搭建的OpenAI api(Chatgpt api)代理。
 -   [NvChad/NvChad](https://github.com/NvChad/NvChad) - Blazing fast Neovim framework providing solid defaults and a beautiful UI, enhancing your neovim experience.
 -   [KDE/latte-dock](https://github.com/KDE/latte-dock) - Replacement dock for Plasma desktops, providing an elegant and intuitive experience for your tasks and plasmoids
@@ -842,7 +843,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [zijie0/HumanSystemOptimization](https://github.com/zijie0/HumanSystemOptimization) - 健康学习到150岁 - 人体系统调优不完全指南
 -   [ansh/jiffyreader.com](https://github.com/ansh/jiffyreader.com) - A Browser Extension for faster reading on ANY website!
 -   [TheAlgorithms/MATLAB-Octave](https://github.com/TheAlgorithms/MATLAB-Octave) - This repository contains algorithms written in MATLAB/Octave. Developing algorithms in the MATLAB environment empowers you to explore and refine ideas, and enables you test and verify your algorithm.
--   [TianmuLong/ChatDragon-Core](https://github.com/TianmuLong/ChatDragon-Core) - A Multi Chat Client
+-   [Longtianmu/ChatDragon-Core](https://github.com/Longtianmu/ChatDragon-Core) - A Multi Chat Client
 -   [AllanChain/hole-martyr](https://github.com/AllanChain/hole-martyr) - Find martyrs and their deeds in PKUHole | 寻找 P 大树洞烈士
 -   [zLulus/NotePractice](https://github.com/zLulus/NotePractice) - My_Note 笔记练习demo
 -   [m2jean/ToothTray](https://github.com/m2jean/ToothTray) - A tray icon in Windows task bar to quickly connect or disconnect bluetooth audio devices.
