@@ -30,7 +30,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
 -   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 -   [mantasu/cs231n](https://github.com/mantasu/cs231n) - Shortest solutions for CS231n 2021-2024
--   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 2, and other large language models.
+-   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
 -   [dair-ai/ML-YouTube-Courses](https://github.com/dair-ai/ML-YouTube-Courses) - 📺 Discover the latest machine learning / AI courses on YouTube.
 -   [lllyasviel/sd-forge-layerdiffuse](https://github.com/lllyasviel/sd-forge-layerdiffuse) - [WIP] Layer Diffusion for WebUI (via Forge)
 -   [lllyasviel/LayerDiffuse](https://github.com/lllyasviel/LayerDiffuse) - Transparent Image Layer Diffusion using Latent Transparency
@@ -207,6 +207,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [imsyy/site-status](https://github.com/imsyy/site-status) - 📺 一个基于 UptimeRobot API 的在线状态面板 | 站点监测 | 状态检测 | An online status panel based on the UptimeRobot API | UptimeRobot, status, site
 -   [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite) - 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
 -   [himself65/not-whitehouse](https://github.com/himself65/not-whitehouse)
+-   [ui-layouts/cursify](https://github.com/ui-layouts/cursify) - Cursor Animation Library for React & Next.js
 
 ## ICS
 
@@ -324,6 +325,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [V1CeVersaa/V1CeVersaa.github.io](https://github.com/V1CeVersaa/V1CeVersaa.github.io) - repo of V1CeVersa's notebook
 -   [vwOvOwv/PKU-Undergraduate-Course-Public](https://github.com/vwOvOwv/PKU-Undergraduate-Course-Public) - Course resources for undergraduates of Peking University in computer science, life sciences, and other subjects.
 -   [Wybxc/WhichClass](https://github.com/Wybxc/WhichClass)
+-   [sshwy/pku3b](https://github.com/sshwy/pku3b) - 🎓a Better BlackBoard for PKUers. 北京大学教学网命令行工具（🖥️Win/🐧Linux/🍏Mac）, 支持查看/提交作业、下载课程回放.
 
 ## Tools
 
