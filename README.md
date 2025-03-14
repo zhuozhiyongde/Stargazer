@@ -90,6 +90,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
 -   [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 -   [DefTruth/ffpa-attn-mma](https://github.com/DefTruth/ffpa-attn-mma) - 📚FFPA(Split-D): Yet another Faster Flash Prefill Attention with O(1) GPU SRAM complexity for headdim > 256, ~2x↑🎉vs SDPA EA.
+-   [Vinay87950/MetaWorld_RL](https://github.com/Vinay87950/MetaWorld_RL)
 
 ## Design
 
