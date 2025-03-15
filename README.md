@@ -583,6 +583,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [Class-Widgets/Class-Widgets](https://github.com/Class-Widgets/Class-Widgets) - Class Widgets 是一款能够显示当前课程的桌面组件应用程序。其提供了易用课程表编辑和美观的桌面组件。
 -   [kkocdko/mobp](https://github.com/kkocdko/mobp) - Microsoft Office Background Process.
 -   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
+-   [PhantomGamers/SFP](https://github.com/PhantomGamers/SFP) - This utility is designed to allow you to apply skins to the modern Steam client
 
 ## Unlisted
 
