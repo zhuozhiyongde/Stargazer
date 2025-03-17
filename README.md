@@ -110,6 +110,8 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld) - Collections of robotics environments geared towards benchmarking multi-task and meta reinforcement learning
 -   [Krasjet/quaternion](https://github.com/Krasjet/quaternion) - A brief introduction to the quaternions and its applications in 3D geometry.
 -   [PKU-HMI-Lab/Hybrid-VLA](https://github.com/PKU-HMI-Lab/Hybrid-VLA) - HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model
+-   [allenzren/open-pi-zero](https://github.com/allenzren/open-pi-zero) - Re-implementation of pi0 vision-language-action (VLA) model from Physical Intelligence 
+-   [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
 
 ## Frontend
 
@@ -518,6 +520,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [Cicada000/VV](https://github.com/Cicada000/VV) - 你还在为自己存放的VV表情包不够多，使用时觉得不够贴切而感到烦恼吗？快来试试这个项目吧！
 -   [xishang0128/clash-meta-party](https://github.com/xishang0128/clash-meta-party) - :electron: Another Mihomo GUI. (🛠building...)
 -   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
+-   [Angels-Ray/fake-rosrus](https://github.com/Angels-Ray/fake-rosrus) - 一个用于重新生成 Cu*sor 设备 ID 和设置 Access Token 的 Cu*sor 扩展
 
 ## Windows
 
