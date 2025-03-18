@@ -27,7 +27,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [janhq/jan](https://github.com/janhq/jan) - Jan is an open source alternative to ChatGPT that runs 100% offline on your computer
 -   [mlabonne/llm-course](https://github.com/mlabonne/llm-course) - Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.
 -   [dair-ai/ML-Papers-of-the-Week](https://github.com/dair-ai/ML-Papers-of-the-Week) - 🔥Highlighting the top ML papers every week.
--   [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+-   [chatanywhere/GPT_API_free](https://github.com/chatanywhere/GPT_API_free) - Free ChatGPT&DeepSeek API Key，免费ChatGPT&DeepSeek API。免费接入DeepSeek API和GPT4 API，支持 gpt | deepseek | claude | gemini | grok 等排名靠前的常用大模型。
 -   [Pythagora-io/gpt-pilot](https://github.com/Pythagora-io/gpt-pilot) - The first real AI developer
 -   [mantasu/cs231n](https://github.com/mantasu/cs231n) - Shortest solutions for CS231n 2021-2024
 -   [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Llama 3.3, DeepSeek-R1, Phi-4, Gemma 3, and other large language models.
@@ -91,6 +91,8 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 -   [DefTruth/ffpa-attn-mma](https://github.com/DefTruth/ffpa-attn-mma) - 📚FFPA(Split-D): Yet another Faster Flash Prefill Attention with O(1) GPU SRAM complexity for headdim > 256, ~2x↑🎉vs SDPA EA.
 -   [Vinay87950/MetaWorld_RL](https://github.com/Vinay87950/MetaWorld_RL)
+-   [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
+-   [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 
 ## Design
 
@@ -112,6 +114,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [PKU-HMI-Lab/Hybrid-VLA](https://github.com/PKU-HMI-Lab/Hybrid-VLA) - HybridVLA: Collaborative Diffusion and Autoregression in a Unified Vision-Language-Action Model
 -   [allenzren/open-pi-zero](https://github.com/allenzren/open-pi-zero) - Re-implementation of pi0 vision-language-action (VLA) model from Physical Intelligence 
 -   [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
+-   [ros/urdf_tutorial](https://github.com/ros/urdf_tutorial)
 
 ## Frontend
 
@@ -521,6 +524,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [xishang0128/clash-meta-party](https://github.com/xishang0128/clash-meta-party) - :electron: Another Mihomo GUI. (🛠building...)
 -   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 -   [Angels-Ray/fake-rosrus](https://github.com/Angels-Ray/fake-rosrus) - 一个用于重新生成 Cu*sor 设备 ID 和设置 Access Token 的 Cu*sor 扩展
+-   [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
 
 ## Windows
 
@@ -593,6 +597,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Unlisted
 
+-   [Fogg05/CozyUI-Plus](https://github.com/Fogg05/CozyUI-Plus) - This is a project of Minecraft Resource Pack which modifies the User Interface into a neat and subtle high-definition style. It covers all the vanilla UI elements as well as many useful client mods. 这是一款将用户界面修改为整洁柔和的高清风格的材质包，修改了所有的原版界面和许多实用的客户端模组。CozyUI+ CozyUI Plus
 -   [zhuozhiyongde/Stargazer](https://github.com/zhuozhiyongde/Stargazer) - 我在梦河边浣洗星星。
 -   [Richasy/ReaderCopilot.Public](https://github.com/Richasy/ReaderCopilot.Public) - Used to collect questions from Reader Copilot, display bug processing results, display documents, etc.
 -   [Innei/review-2024](https://github.com/Innei/review-2024) - 你在期待什么？你在失望什么？
@@ -744,7 +749,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [pkuhollow/seed](https://github.com/pkuhollow/seed) - 燕园是一片神奇的土地，到处都是希望的种子。哪里有雨露，哪里就会生根发芽。
 -   [Yixuan-Wang/woodpecker](https://github.com/Yixuan-Wang/woodpecker) - A set of libraries for tweakable treehole browsing interfaces.
 -   [guyutongxue/pkuhelper-web-score](https://github.com/guyutongxue/pkuhelper-web-score) - 北大成绩查询页面（Re-implemented by Angular）
--   [lowlighter/metrics](https://github.com/lowlighter/metrics) - 📊 An infographics generator with 30+ plugins and 300+ options to display stats about your GitHub account and render them as SVG, Markdown, PDF or JSON!
 -   [abinnq/clashxpro-alfred](https://github.com/abinnq/clashxpro-alfred) - The Alfred workflow for ClashX Pro
 -   [stevenpetryk/mafs](https://github.com/stevenpetryk/mafs) - React components for interactive math
 -   [any86/any-rule](https://github.com/any86/any-rule) - 🦕  常用正则大全, 支持web / vscode / idea / Alfred Workflow多平台
