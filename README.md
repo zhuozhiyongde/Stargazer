@@ -115,6 +115,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [allenzren/open-pi-zero](https://github.com/allenzren/open-pi-zero) - Re-implementation of pi0 vision-language-action (VLA) model from Physical Intelligence 
 -   [Physical-Intelligence/openpi](https://github.com/Physical-Intelligence/openpi)
 -   [ros/urdf_tutorial](https://github.com/ros/urdf_tutorial)
+-   [kabachuha/OpenMMDiT](https://github.com/kabachuha/OpenMMDiT) - Open(MM)DiT: An Easy, Fast and Memory-Efficient System for (MM)DiT Training and Inference
 
 ## Frontend
 
@@ -215,6 +216,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [willow-god/Friend-Circle-Lite](https://github.com/willow-god/Friend-Circle-Lite) - 🐱一个精简版，无后端，且仅利用github action运行的精简版友链朋友圈程序，兼容fc的json格式信息，同时支持推送友圈更新，支持他人订阅个人站点并在更新时发送邮箱推送。
 -   [himself65/not-whitehouse](https://github.com/himself65/not-whitehouse)
 -   [ui-layouts/cursify](https://github.com/ui-layouts/cursify) - Cursor Animation Library for React & Next.js
+-   [unovue/inspira-ui](https://github.com/unovue/inspira-ui) - Build beautiful website using Vue & Nuxt.
 
 ## ICS
 
