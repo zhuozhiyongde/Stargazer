@@ -89,7 +89,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels
 -   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
 -   [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
--   [DefTruth/ffpa-attn-mma](https://github.com/DefTruth/ffpa-attn-mma) - 📚FFPA(Split-D): Yet another Faster Flash Prefill Attention with O(1) GPU SRAM complexity for headdim > 256, ~2x↑🎉vs SDPA EA.
+-   [xlite-dev/ffpa-attn-mma](https://github.com/xlite-dev/ffpa-attn-mma) - 📚FFPA(Split-D): Yet another Faster Flash Prefill Attention with O(1) GPU SRAM complexity for headdim > 256, ~2x↑🎉vs SDPA EA.
 -   [Vinay87950/MetaWorld_RL](https://github.com/Vinay87950/MetaWorld_RL)
 -   [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 -   [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
@@ -152,7 +152,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [lobehub/lobe-chat](https://github.com/lobehub/lobe-chat) - 🤯 Lobe Chat - an open-source, modern-design AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Ollama / DeepSeek / Qwen), Knowledge Base (file upload / knowledge management / RAG ), Multi-Modals (Plugins/Artifacts) and Thinking. One-click FREE deployment of your private ChatGPT/ Claude / DeepSeek application.
 -   [chathub-dev/chathub](https://github.com/chathub-dev/chathub) - All-in-one chatbot client
 -   [mushan0x0/AI0x0.com](https://github.com/mushan0x0/AI0x0.com) - 一个多模态多模型通用型的全局全能 AI 查询生成桌面悬浮助手应用
--   [dsrkafuu/misans](https://github.com/dsrkafuu/misans) - MiSans (subsetted) fonts from Xiaomi for free (web) use. | 小米 MiSans 字体 (网页)。
+-   [dsrkafuu/misans](https://github.com/dsrkafuu/misans) - MiSans (subsetted) fonts for free (web) use | 小米 MiSans 字体 (网页用)
 -   [hunkjun/chatgpt-api-proxy](https://github.com/hunkjun/chatgpt-api-proxy) - 最简单的方式实现自建主机搭建的OpenAI api(Chatgpt api)代理。
 -   [xieyezi/website-2024-next](https://github.com/xieyezi/website-2024-next) - my personal website 2024.
 -   [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) - A lightning-fast search engine API bringing AI-powered hybrid search to your sites and applications.
@@ -274,13 +274,11 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [insidegui/DarkModeBuddy](https://github.com/insidegui/DarkModeBuddy) - Switch your Mac's system theme based on the ambient light intensity.
 -   [Avikam03/screentime](https://github.com/Avikam03/screentime)
 -   [buresdv/Cork](https://github.com/buresdv/Cork) - A fast GUI for Homebrew written in SwiftUI
--   [zenangst/Gray](https://github.com/zenangst/Gray) -  :first_quarter_moon: Tailor your macOS Mojave experience
 -   [MrKai77/Loop](https://github.com/MrKai77/Loop) - Window management made elegant.
 -   [sfsam/Itsycal](https://github.com/sfsam/Itsycal) - Itsycal is a tiny calendar for your Mac's menu bar. http://www.mowglii.com/itsycal
 -   [dwarvesf/hidden](https://github.com/dwarvesf/hidden) - An ultra-light MacOS utility that helps hide menu bar icons
 -   [pakerwreah/Calendr](https://github.com/pakerwreah/Calendr) - Menu bar calendar for macOS
 -   [superhighfives/pika](https://github.com/superhighfives/pika) - An open-source colour picker app for macOS
--   [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
 -   [boring-design/haye-distro](https://github.com/boring-design/haye-distro)
 -   [jordanbaird/Ice](https://github.com/jordanbaird/Ice) - Powerful menu bar manager for macOS
 -   [Jeric-X/SyncClipboard](https://github.com/Jeric-X/SyncClipboard) - 跨平台剪贴板同步方案 / Cross-Platform Cipboard Syncing Solution
@@ -447,7 +445,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [andreasfertig/cppinsights](https://github.com/andreasfertig/cppinsights) - C++ Insights - See your source code with the eyes of a compiler
 -   [harness/harness](https://github.com/harness/harness) - Harness Open Source is an end-to-end developer platform with Source Control Management, CI/CD Pipelines, Hosted Developer Environments, and Artifact Registries.
 -   [outline/outline](https://github.com/outline/outline) - The fastest knowledge base for growing teams. Beautiful, realtime collaborative, feature packed, and markdown compatible.
--   [RSSNext/Follow](https://github.com/RSSNext/Follow) - 🧡 Follow everything in one place
+-   [RSSNext/Folo](https://github.com/RSSNext/Folo) - 🧡 Follow everything in one place
 -   [hmjz100/LinkSwift](https://github.com/hmjz100/LinkSwift) - 一个基于 JavaScript 的网盘文件下载地址获取工具。基于【网盘直链下载助手】修改 ，自用，去推广，无需输入“暗号”即可使用，甚至比原版还要好用！
 -   [vvbbnn00/WARP-Clash-API](https://github.com/vvbbnn00/WARP-Clash-API) - 该项目可以让你通过订阅的方式使用Cloudflare WARP+，自动获取流量。This project enables you to use Cloudflare WARP+ through subscription, automatically acquiring traffic.
 -   [yuchanns/warpflare](https://github.com/yuchanns/warpflare) - Keep your WARP+ traffic topped up with Cloudflare Workers.
@@ -527,6 +525,8 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [chengazhen/cursor-auto-free](https://github.com/chengazhen/cursor-auto-free) - auto sign cursor
 -   [Angels-Ray/fake-rosrus](https://github.com/Angels-Ray/fake-rosrus) - 一个用于重新生成 Cu*sor 设备 ID 和设置 Access Token 的 Cu*sor 扩展
 -   [huacnlee/autocorrect](https://github.com/huacnlee/autocorrect) - A linter and formatter to help you to improve copywriting, correct spaces, words, and punctuations between CJK (Chinese, Japanese, Korean).
+-   [cline/cline](https://github.com/cline/cline) - Autonomous coding agent right in your IDE, capable of creating/editing files, executing commands, using the browser, and more with your permission every step of the way.
+-   [StrayMeteor3337/WechatRealFriends](https://github.com/StrayMeteor3337/WechatRealFriends) - 微信好友关系一键检测，基于微信ipad协议，看看有没有朋友偷偷删掉或者拉黑你
 
 ## Windows
 
@@ -596,6 +596,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [kkocdko/mobp](https://github.com/kkocdko/mobp) - Microsoft Office Background Process.
 -   [Atlas-OS/Atlas](https://github.com/Atlas-OS/Atlas) - 🚀 An open and lightweight modification to Windows, designed to optimize performance, privacy and usability.
 -   [PhantomGamers/SFP](https://github.com/PhantomGamers/SFP) - This utility is designed to allow you to apply skins to the modern Steam client
+-   [OdysseusYuan/Mocreak](https://github.com/OdysseusYuan/Mocreak) - 基于 LKY_OfficeTools 构建的图形化版本。一键自动化下载、安装、激活 Office 正版的办公增强工具。该工具完全免费、无广告、绿色、无毒、简约、高效、安全。
 
 ## Unlisted
 
