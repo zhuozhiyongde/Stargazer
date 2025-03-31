@@ -391,7 +391,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [OwO-Network/DeepLX](https://github.com/OwO-Network/DeepLX) - Powerful Free DeepL API, No Token Required
 -   [damnever/ChatGPTx.popclipext](https://github.com/damnever/ChatGPTx.popclipext) - :notes: Boost your productivity with PopClip and ChatGPT.
 -   [yiguanxianyu/PKUAutoRun](https://github.com/yiguanxianyu/PKUAutoRun) - 让手机跑起来
--   [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with MoE(ONNX) embedded solution.
+-   [QIN2DIM/hcaptcha-challenger](https://github.com/QIN2DIM/hcaptcha-challenger) - 🥂 Gracefully face hCaptcha challenge with multimodal large language model.
 -   [mulaRahul/keyviz](https://github.com/mulaRahul/keyviz) - Keyviz is a free and open-source tool to visualize your keystrokes ⌨️ and 🖱️ mouse actions in real-time.
 -   [zzzgydi/clash-verge](https://github.com/zzzgydi/clash-verge) - A Clash GUI based on tauri. Supports Windows, macOS and Linux.
 -   [abatsakidis/PDFDeSecure](https://github.com/abatsakidis/PDFDeSecure) - An easy-to-use PDF Unlocker. Remove copy-protection from PDF files.
@@ -546,6 +546,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [MuiseDestiny/zotero-style](https://github.com/MuiseDestiny/zotero-style) - Ethereal Style for Zotero
 -   [Calcium-Ion/new-api](https://github.com/Calcium-Ion/new-api) - AI模型接口管理与分发系统，支持将多种大模型转为统一格式调用，支持OpenAI、Claude等格式，可供个人或者企业内部管理与分发渠道使用，本项目基于One API二次开发。🍥 The next-generation LLM gateway and AI asset management system supports multiple languages.
 -   [yeongpin/cursor-free-vip](https://github.com/yeongpin/cursor-free-vip) - [Support 0.48.x]（Reset Cursor AI MachineID & Auto Sign Up / In）自动注册 Cursor Ai ，自动重置机器ID ， 免费升级使用Pro功能: You've reached your trial request limit. / Too many free trial accounts used on this machine. Please upgrade to pro. We have this limit in place to prevent abuse. Please let us know if you believe this is a mistake.
+-   [blazickjp/arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) - A Model Context Protocol server for searching and analyzing arXiv papers
 
 ## Windows
 
@@ -625,7 +626,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [Innei/review-2024](https://github.com/Innei/review-2024) - 你在期待什么？你在失望什么？
 -   [interestingLSY/sysy-compiler](https://github.com/interestingLSY/sysy-compiler) - A compiler for the SYSY language (a subset of C). My homework for the course "compiler principles"
 -   [EmptyBlueBox/Reinforcement_Learning-2024Fall-PKU-Collaboration](https://github.com/EmptyBlueBox/Reinforcement_Learning-2024Fall-PKU-Collaboration) - I love reinforcement learning.
--   [Snowflyt/typora-copilot](https://github.com/Snowflyt/typora-copilot) - GitHub Copilot plugin for Typora on both Windows, macOS and Linux, provided through Copilot.vim.
+-   [Snowflyt/typora-copilot](https://github.com/Snowflyt/typora-copilot) - GitHub Copilot plugin for Typora on both Windows, macOS and Linux.
 -   [HanXinzi-AI/awesome-computer-vision-resources](https://github.com/HanXinzi-AI/awesome-computer-vision-resources) - a collection of computer vision projects&tools. 计算机视觉方向项目和工具集合。
 -   [Kuingsmile/word-GPT-Plus](https://github.com/Kuingsmile/word-GPT-Plus) - Word GPT Plus is a word add-in which integrates the chatGPT model into Microsoft Word. Both official and web api is supported.
 -   [innei-dev/Shiroi](https://github.com/innei-dev/Shiroi)
@@ -817,7 +818,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [Arbeiter-PKU/HandlingYourJob](https://github.com/Arbeiter-PKU/HandlingYourJob) - How to handle campus recruitment. 校招感悟
 -   [hankcs/HanLP](https://github.com/hankcs/HanLP) - 中文分词 词性标注 命名实体识别 依存句法分析 成分句法分析 语义依存分析 语义角色标注 指代消解 风格转换 语义相似度 新词发现 关键词短语提取 自动摘要 文本分类聚类 拼音简繁转换 自然语言处理
 -   [hiDaDeng/wordexpansion](https://github.com/hiDaDeng/wordexpansion) - 使用SO_PMI互信息算法、词向量法快速构建不同领域(手机、汽车等)的专业情感词典
--   [hiDaDeng/cnsenti](https://github.com/hiDaDeng/cnsenti) - 中文情感分析库(Chinese Sentiment))可对文本进行情绪分析、正负情感分析。Chinese sentiment analysis library, which supports counting the number of different emotional words in the text
+-   [hiDaDeng/cnsenti](https://github.com/hiDaDeng/cnsenti) - 中文情感分析库(Chinese Sentiment))可对文本进行情绪分析、正负情感分析。Text analysis, supporting multiple methods including word count, readability, document similarity, sentiment analysis, Word2Vec .
 -   [andredelft/typora-tailwind-theme](https://github.com/andredelft/typora-tailwind-theme) - The beautiful Tailwind typography layout for Typora.
 -   [typora/theme.typora.io](https://github.com/typora/theme.typora.io) - Website for Typora themes
 -   [blinkfox/typora-vue-theme](https://github.com/blinkfox/typora-vue-theme) - This is a typora theme inspired by Vue document style. 一个类似于 Vue 文档风格的 Typora Markdown 编辑器主题。
