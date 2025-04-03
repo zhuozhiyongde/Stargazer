@@ -87,7 +87,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [Unakar/Efficient_AI](https://github.com/Unakar/Efficient_AI) - 此项目是我个人对MIT 6.5940 课程作业的答案，学习笔记和心得。
 -   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
 -   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels
--   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
+-   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能入门指南 Embodied-AI-Guide
 -   [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
 -   [xlite-dev/ffpa-attn-mma](https://github.com/xlite-dev/ffpa-attn-mma) - 📚FFPA(Split-D): Yet another Faster Flash Prefill Attention with O(1) SRAM complexity large headdim (D > 256), ~2x↑🎉vs SDPA EA.
 -   [Vinay87950/MetaWorld_RL](https://github.com/Vinay87950/MetaWorld_RL)
@@ -108,7 +108,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 
 ## Embodied AI
 
--   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - 具身智能入门指南 Embodied-AI-Guide
+-   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能入门指南 Embodied-AI-Guide
 -   [ARISE-Initiative/robosuite](https://github.com/ARISE-Initiative/robosuite) - robosuite: A Modular Simulation Framework and Benchmark for Robot Learning
 -   [PKU-HMI-Lab/LIFT3D](https://github.com/PKU-HMI-Lab/LIFT3D) - [CVPR 2025]Lift3D Foundation Policy: Lifting 2D Large-Scale Pretrained Models for Robust 3D Robotic Manipulation
 -   [Farama-Foundation/Metaworld](https://github.com/Farama-Foundation/Metaworld) - Collections of robotics environments geared towards benchmarking multi-task and meta reinforcement learning
