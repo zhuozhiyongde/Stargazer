@@ -716,7 +716,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [codex-team/editor.js](https://github.com/codex-team/editor.js) - A block-style editor with clean JSON output
 -   [nuxt/icon](https://github.com/nuxt/icon) - The <Icon> component, supporting Iconify, Emojis and custom components.
 -   [xiaochunjimmy/Sogou-Input-Skin](https://github.com/xiaochunjimmy/Sogou-Input-Skin) - 搜狗拼音输入法的几款极简风格皮肤
--   [RaffeYang/wechat](https://github.com/RaffeYang/wechat) - A RayCast extension for WeChat  to quickly search your contacts and chat.Raycast 微信插件，微信效率工具，快速搜索微信好友并进行聊天。
+-   [RaffeYang/wechat](https://github.com/RaffeYang/wechat) - A Raycast extension for Wechat  to quickly search your contacts and chat.Raycast 微信插件，微信效率工具，快速搜索微信好友并进行聊天。
 -   [iloveitaly/hyper-focus](https://github.com/iloveitaly/hyper-focus) - Block hosts, apps, specific urls (with query string vars!), launch scripts on wake, and generally optimize your productivity and focus
 -   [raycast/extensions](https://github.com/raycast/extensions) - Everything you need to extend Raycast.
 -   [xilopaint/alfred-about-this-mac](https://github.com/xilopaint/alfred-about-this-mac) - Shows About This Mac info in Alfred.
