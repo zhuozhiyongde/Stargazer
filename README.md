@@ -77,7 +77,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [ahangchen/torch_base](https://github.com/ahangchen/torch_base) - Quickly bring up your PyTorch project(a skeleton)
 -   [HazyResearch/aisys-building-blocks](https://github.com/HazyResearch/aisys-building-blocks) - Building blocks for foundation models.
 -   [tongyx361/Awesome-LLM-Research](https://github.com/tongyx361/Awesome-LLM-Research) - Curation of resources for LLM research, screened by @tongyx361 to ensure high quality and accompanied with elaborately-written concise descriptions to help readers get the gist as quickly as possible.
--   [ali-vilab/MangaNinjia](https://github.com/ali-vilab/MangaNinjia) - [CVPR 2025] Official implementation of "MangaNinja: Line Art Colorization with Precise Reference Following"
+-   [ali-vilab/MangaNinjia](https://github.com/ali-vilab/MangaNinjia) - [CVPR 2025 Highlight] Official implementation of "MangaNinja: Line Art Colorization with Precise Reference Following"
 -   [WZH0120/SAM2-UNet](https://github.com/WZH0120/SAM2-UNet) - SAM2-UNet: Segment Anything 2 Makes Strong Encoder for Natural and Medical Image Segmentation
 -   [DengPingFan/PraNet](https://github.com/DengPingFan/PraNet) - PraNet: Parallel Reverse Attention Network for Polyp Segmentation, MICCAI 2020 (Oral). Code using Jittor Framework is available.
 -   [MrGiovanni/AbdomenAtlas](https://github.com/MrGiovanni/AbdomenAtlas) - [NeurIPS 2023] AbdomenAtlas 1.0 (5,195 CT volumes + 9 annotated classes)
@@ -85,16 +85,17 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [instructor-ai/instructor](https://github.com/instructor-ai/instructor) - structured outputs for llms 
 -   [MrGiovanni/SuPreM](https://github.com/MrGiovanni/SuPreM) - [ICLR 2024 Oral] Supervised Pre-Trained 3D Models for Medical Image Analysis (9,262 CT volumes + 25 annotated classes)
 -   [Unakar/Efficient_AI](https://github.com/Unakar/Efficient_AI) - 此项目是我个人对MIT 6.5940 课程作业的答案，学习笔记和心得。
--   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers. Support deepseek-r1
+-   [CherryHQ/cherry-studio](https://github.com/CherryHQ/cherry-studio) - 🍒 Cherry Studio is a desktop client that supports for multiple LLM providers.
 -   [deepseek-ai/FlashMLA](https://github.com/deepseek-ai/FlashMLA) - FlashMLA: Efficient MLA decoding kernels
 -   [TianxingChen/Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) - [Lumina Embodied AI Community] 具身智能入门指南 Embodied-AI-Guide
 -   [zilliztech/deep-searcher](https://github.com/zilliztech/deep-searcher) - Open Source Deep Research Alternative to Reason and Search on Private Data. Written in Python.
--   [xlite-dev/ffpa-attn-mma](https://github.com/xlite-dev/ffpa-attn-mma) - 📚FFPA(Split-D): Yet another Faster Flash Prefill Attention with O(1) SRAM complexity large headdim (D > 256), ~2x↑🎉vs SDPA EA.
+-   [xlite-dev/ffpa-attn-mma](https://github.com/xlite-dev/ffpa-attn-mma) - 📚FFPA(Split-D): Yet another Faster Flash Attention with O(1) GPU SRAM complexity large headdim, 1.8x~3x↑🎉 faster than SDPA EA.
 -   [Vinay87950/MetaWorld_RL](https://github.com/Vinay87950/MetaWorld_RL)
 -   [jax-ml/jax](https://github.com/jax-ml/jax) - Composable transformations of Python+NumPy programs: differentiate, vectorize, JIT to GPU/TPU, and more
 -   [google/flax](https://github.com/google/flax) - Flax is a neural network library for JAX that is designed for flexibility.
 -   [mbzuai-oryx/Awesome-LLM-Post-training](https://github.com/mbzuai-oryx/Awesome-LLM-Post-training) - Awesome Reasoning LLM Tutorial/Survey/Guide
 -   [JonathanChavezTamales/LLMStats](https://github.com/JonathanChavezTamales/LLMStats) - A comprehensive set of LLM benchmark scores and provider prices.
+-   [WengLean/hands-on-research-tutorial](https://github.com/WengLean/hands-on-research-tutorial) - 《动手做科研》面向科研初学者，一步一步地展示如何入门人工智能科研
 
 ## Design
 
@@ -198,7 +199,7 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [atlassian/pragmatic-drag-and-drop](https://github.com/atlassian/pragmatic-drag-and-drop) - Fast drag and drop for any experience on any tech stack
 -   [libnyanpasu/clash-nyanpasu](https://github.com/libnyanpasu/clash-nyanpasu) - Clash Nyanpasu～(∠・ω< )⌒☆​
 -   [iconoir-icons/iconoir](https://github.com/iconoir-icons/iconoir) - An open source icons library with 1600+ icons, supporting React, React Native, Flutter, Vue, Figma, and Framer.
--   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 An identity and access management (IAM) infrastructure with authentication, authorization, MFA, SSO, user management, and multi-tenancy features. Supports OAuth 2.0, OIDC, and SAML. No framework restrictions.
+-   [logto-io/logto](https://github.com/logto-io/logto) - 🧑‍🚀 The better auth and identity infrastructure and the open-source alternative to Auth0. No framework restrictions.
 -   [type-challenges/type-challenges](https://github.com/type-challenges/type-challenges) - Collection of TypeScript type challenges with online judge
 -   [YunYouJun/kotodama](https://github.com/YunYouJun/kotodama) - 💬 掌控言灵的魔法，一个优雅的纯静态评论管理后台
 -   [piotrkulpinski/openalternative](https://github.com/piotrkulpinski/openalternative) - A community driven list of open source alternatives to proprietary software and applications.
@@ -416,7 +417,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [YiNNx/cmd-wrapped](https://github.com/YiNNx/cmd-wrapped) - 👩‍💻 A CLI Tool for Command Line Insights
 -   [UniAlternative/activation-script](https://github.com/UniAlternative/activation-script) - A script designed to generate configuration files and activate software for the Surge
 -   [Loyalsoldier/surge-rules](https://github.com/Loyalsoldier/surge-rules) - 🦄 🎃 👻 Surge 规则集(DOMAIN-SET 和 RULE-SET)，适用于 Surge for iOS 和 Surge for Mac 客户端。
--   [yufeikang/raycast_api_proxy](https://github.com/yufeikang/raycast_api_proxy) - This is a simple Raycast AI API proxy.
 -   [deezertidal/stash-override](https://github.com/deezertidal/stash-override) - Stash覆写 脚本 规则 override stoverride 磁贴 面板 分流 破解 解锁
 -   [raycast/script-commands](https://github.com/raycast/script-commands) - Script Commands let you tailor Raycast to your needs. Think of them as little productivity boosts throughout your day.
 -   [DiamondHunters/NodeInject_Hook_example](https://github.com/DiamondHunters/NodeInject_Hook_example) - A hooking example for NodeInject
@@ -433,7 +433,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [SukkaW/Surge](https://github.com/SukkaW/Surge) - Rule Snippet & Rule Set for Surge / Mihomo (Clash.Meta) / sing-box
 -   [breezedeus/Pix2Text](https://github.com/breezedeus/Pix2Text) - An Open-Source Python3 tool with SMALL models for recognizing layouts, tables, math formulas (LaTeX), and text in images, converting them into Markdown format. A free alternative to Mathpix, empowering seamless conversion of visual content into text-based representations. 80+ languages are supported.
 -   [ventoy/Ventoy](https://github.com/ventoy/Ventoy) - A new bootable USB solution.
--   [QiuChenlyOpenSource/91QiuChen](https://github.com/QiuChenlyOpenSource/91QiuChen) - 91 Sex asm code asian cosplay hexinhex porn big dick 花Q
 -   [ytdl-org/youtube-dl](https://github.com/ytdl-org/youtube-dl) - Command-line program to download videos from YouTube.com and other video sites
 -   [fatedier/frp](https://github.com/fatedier/frp) - A fast reverse proxy to help you expose a local server behind a NAT or firewall to the internet.
 -   [VaalaCat/frp-panel](https://github.com/VaalaCat/frp-panel) - a multi node frp webui and for https://github.com/fatedier/frp server and client management, which makes this project a Cloudflare Tunnel/Tailscale Funnel/Ngork platform and agent open source alternative
@@ -636,7 +635,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [innei-dev/Shiroi](https://github.com/innei-dev/Shiroi)
 -   [adtac/commento](https://github.com/adtac/commento) - A fast, bloat-free comments platform (Github mirror)
 -   [Jannchie/GPT-SoVITS](https://github.com/Jannchie/GPT-SoVITS) - 1 min voice data can also be used to train a good TTS model! (few shot voice cloning)
--   [aaamoon/copilot-gpt4-service](https://github.com/aaamoon/copilot-gpt4-service) - Convert Github Copilot to ChatGPT
 -   [okxlin/appstore](https://github.com/okxlin/appstore) - 1Panel 应用商店的非官方应用适配库  1Panel Store Unofficial App Adaptation Repository (https://t.me/dockerapps)
 -   [UsanoCoCr/PKUICS](https://github.com/UsanoCoCr/PKUICS) - 北京大学2023-2024学年ICS计算机系统导论个人资料整理
 -   [vercel/nextjs-subscription-payments](https://github.com/vercel/nextjs-subscription-payments) - Clone, deploy, and fully customize a SaaS subscription application with Next.js.
@@ -651,7 +649,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [ZJU-Turing/TuringDoneRight](https://github.com/ZJU-Turing/TuringDoneRight) - 浙江大学图灵班学长组资料汇总网站
 -   [udecode/plate](https://github.com/udecode/plate) - A rich-text editor powered by AI
 -   [RIA-AED/RIAWebsite](https://github.com/RIA-AED/RIAWebsite) - RIA 的官方站点前端
--   [QiuChenlyOpenSource/InjectLib](https://github.com/QiuChenlyOpenSource/InjectLib) - 基于Ruby编写的命令行注入版本
 -   [shadcn-ui/ui](https://github.com/shadcn-ui/ui) - A set of beautifully-designed, accessible components and a code distribution platform. Works with your favorite frameworks. Open Source. Open Code.
 -   [antfu/raycast-multi-translate](https://github.com/antfu/raycast-multi-translate) - A Raycast extension that translates text to multiple languages at once
 -   [wsdjeg/Learn-Vim_zh_cn](https://github.com/wsdjeg/Learn-Vim_zh_cn) - 聪明地学习Vim
@@ -855,14 +852,12 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [tailwindlabs/heroicons](https://github.com/tailwindlabs/heroicons) - A set of free MIT-licensed high-quality SVG icons for UI development.
 -   [tailwindlabs/headlessui](https://github.com/tailwindlabs/headlessui) - Completely unstyled, fully accessible UI components, designed to integrate beautifully with Tailwind CSS.
 -   [SortableJS/Sortable](https://github.com/SortableJS/Sortable) - Reorderable drag-and-drop lists for modern browsers and touch devices. No jQuery or framework required.
--   [dreamhead/patterns-of-distributed-systems](https://github.com/dreamhead/patterns-of-distributed-systems) - 《Patterns of Distributed Systems》中文版
 -   [mac-cleanup/mac-cleanup-sh](https://github.com/mac-cleanup/mac-cleanup-sh) - 🗑️ Cleanup script for macOS (DEPRECATED)
 -   [intitni/AbnormalMouseApp](https://github.com/intitni/AbnormalMouseApp) - An app that enables you to swipe, zoom, and rotate with a normal mouse in macOS.
 -   [seisman/how-to-write-makefile](https://github.com/seisman/how-to-write-makefile) - 跟我一起写Makefile重制版
 -   [Yixuan-Wang/blog](https://github.com/Yixuan-Wang/blog) - Yixuan Wang's personal blog.
 -   [VSCodeConfigHelper/v4](https://github.com/VSCodeConfigHelper/v4) - VS Code C++ 配置器
 -   [Kong/unirest-java](https://github.com/Kong/unirest-java) - Unirest in Java: Simplified, lightweight HTTP client library.
--   [somebasj/ParallelsDesktopCrack](https://github.com/somebasj/ParallelsDesktopCrack) - Parallels Desktop for mac Crack
 -   [Doublefire-Chen/chaoxing_sign](https://github.com/Doublefire-Chen/chaoxing_sign) - 超星学习通自动签到 Python 脚本
 -   [PKUfudawei/pkuvpn](https://github.com/PKUfudawei/pkuvpn) - Command-line script to access global proxy via PKU VPN
 -   [fxsjy/jieba](https://github.com/fxsjy/jieba) - 结巴中文分词
@@ -944,7 +939,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [xiexiexx/PPLA](https://github.com/xiexiexx/PPLA) - The Paper-and-Pencil Lectures on Algorithms
 -   [rn7s2/MT4REST](https://github.com/rn7s2/MT4REST) - RESTful API Wrapper for MT4 .NET API.
 -   [huihut/interview](https://github.com/huihut/interview) - 📚 C/C++ 技术面试基础知识总结，包括语言、程序库、数据结构、算法、系统、网络、链接装载库等知识及面试经验、招聘、内推等信息。This repository is a summary of the basic knowledge of recruiting job seekers and beginners in the direction of C/C++ technology, including language, program library, data structure, algorithm, system, network, link loading library, interview experience, recruitment, recommendation, etc.
--   [GrowingGit/GitHub-Chinese-Top-Charts](https://github.com/GrowingGit/GitHub-Chinese-Top-Charts) - :cn: GitHub中文排行榜，各语言分设「软件 | 资料」榜单，精准定位中文好项目。各取所需，高效学习。
 -   [IAmPara0x/Yuno](https://github.com/IAmPara0x/Yuno) - Yuno is context based search engine for anime.
 -   [sunface/rust-course](https://github.com/sunface/rust-course) - “连续八年成为全世界最受喜爱的语言，无 GC 也无需手动内存管理、极高的性能和安全性、过程/OO/函数式编程、优秀的包管理、JS 未来基石" — 工作之余的第二语言来试试 Rust 吧。本书拥有全面且深入的讲解、生动贴切的示例、德芙般丝滑的内容，这可能是目前最用心的 Rust 中文学习教程 / Book 
 -   [imarvinle/awesome-cs-books](https://github.com/imarvinle/awesome-cs-books) - 🔥 经典编程书籍大全，涵盖：计算机系统与网络、系统架构、算法与数据结构、前端开发、后端开发、移动开发、数据库、测试、项目与团队、程序员职业修炼、求职面试等
@@ -967,7 +961,6 @@ Gernerated by [gaze-stars](https://github.com/zhuozhiyongde/gaze-stars)
 -   [alibaba/butterfly](https://github.com/alibaba/butterfly) - 🦋Butterfly，A JavaScript/React/Vue2 Diagramming library which concentrate on flow layout field.    (基于JavaScript/React/Vue2的流程图组件)
 -   [izackwu/TeachYourselfCS-CN](https://github.com/izackwu/TeachYourselfCS-CN) - TeachYourselfCS 的中文翻译 |  A Chinese translation of TeachYourselfCS
 -   [spring2go/cs_study_plan](https://github.com/spring2go/cs_study_plan) - 一份硬核(hardcore)计算机科学CS自学计划，偏向软件工程和系统架构方向
--   [unlock-music/unlock-music](https://github.com/unlock-music/unlock-music) - Unlock encrypted music file in browser. 在浏览器中解锁加密的音乐文件。
 -   [FortAwesome/Font-Awesome](https://github.com/FortAwesome/Font-Awesome) - The iconic SVG, font, and CSS toolkit
 -   [WebStackPage/WebStackPage.github.io](https://github.com/WebStackPage/WebStackPage.github.io) - ❤️静态响应式网址导航网站 - webstack.cc
 -   [nickrussler/email-to-pdf-converter](https://github.com/nickrussler/email-to-pdf-converter) - Converts email files (eml, msg) to pdf
