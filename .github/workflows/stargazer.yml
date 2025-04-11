@@ -20,5 +20,6 @@ jobs:
                   git-name: Github Action
                   git-email: actions@users.noreply.github.com
                   git-message: '🔧 chore: Update README.md'
+                  sort-by: updated
                   template-path: template/template.md
                   output-path: README.md
